@@ -1,4 +1,22 @@
 {
+  "components/sections/About2.js -> @/components/elements/CounterUp": {
+    "id": "components/sections/About2.js -> @/components/elements/CounterUp",
+    "files": [
+      "static/chunks/components_elements_CounterUp_js.js"
+    ]
+  },
+  "components/sections/Funfact2.js -> @/components/elements/CounterUp": {
+    "id": "components/sections/Funfact2.js -> @/components/elements/CounterUp",
+    "files": [
+      "static/chunks/components_elements_CounterUp_js.js"
+    ]
+  },
+  "components/sections/Progress2.js -> @/components/elements/CounterUp": {
+    "id": "components/sections/Progress2.js -> @/components/elements/CounterUp",
+    "files": [
+      "static/chunks/components_elements_CounterUp_js.js"
+    ]
+  },
   "components/sections/Testimonial1.js -> @/components/elements/CounterUp": {
     "id": "components/sections/Testimonial1.js -> @/components/elements/CounterUp",
     "files": [
