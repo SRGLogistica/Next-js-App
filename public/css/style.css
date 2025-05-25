@@ -2995,7 +2995,7 @@ Range Slider One
 }
 .header-style-two .header-top {
   position: relative;
-  background: var(--theme-color1);
+  background-color: #E6CA13;
 }
 @media (max-width: 991.98px) {
   .header-style-two .header-top {
