@@ -10,9 +10,9 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                 <div className="header-top">
                     <div className="top-left">
                         <ul className="list-style-one">
-                        <li><i className="fa fa-map-marker-alt"></i> 380 St Kilda Road, Australia</li>
-                        <li><i className="fa fa-clock"></i> Mon - Sat: 8am - 5pm</li>
-                        <li><i className="fa fa-phone-volume"></i> <Link href="tel:+92(8800)87890">+92 (8800) 87890</Link></li>
+                        <li><i className="fa fa-map-marker-alt"></i> Zimpeto, Maputo, Moçambique</li>
+                        <li><i className="fa fa-clock"></i> Seg - Sex: 8h30 - 17h00</li>
+                        <li><i className="fa fa-phone-volume"></i> <Link href="tel:+258847965281">+258 (84) 796 5281</Link></li>
                         </ul>
                     </div>
 
@@ -29,7 +29,7 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                 <div className="header-lower">
                 <div className="main-box">
                     <div className="logo-box">
-                    <div className="logo"><Link href="/"><img src="images/logo-3.png" alt="" title="Lozics"/></Link></div>
+                    <div className="logo"><Link href="/"><img src="images/logo.png" alt="" title="SRG"/></Link></div>
                     </div>
 
                     <div className="nav-outer">
@@ -68,24 +68,24 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                                 {/* Contact Info Box */}
                                 <div className="contact-info-box">
                                     <i className="icon lnr-icon-phone-handset" />
-                                    <span className="title">Call Now</span>
-                                    <Link href="/tel:+92880098670">+92 (8800) - 98670</Link>
+                                    <span className="title">Ligar Agora</span>
+                                    <Link href="/tel:+258847965281">+258 84 796 5281</Link>
                                 </div>
                             </li>
                             <li>
                                 {/* Contact Info Box */}
                                 <div className="contact-info-box">
                                     <span className="icon lnr-icon-envelope1" />
-                                    <span className="title">Send Email</span>
-                                    <Link href="/mailto:help@company.com">help@company.com</Link>
+                                    <span className="title">Enviar Email</span>
+                                    <Link href="/mailto:geral@srg.co.mz">geral@srg.co.mz</Link>
                                 </div>
                             </li>
                             <li>
                                 {/* Contact Info Box */}
                                 <div className="contact-info-box">
                                     <span className="icon lnr-icon-clock" />
-                                    <span className="title">Send Email</span>
-                                    Mon - Sat 8:00 - 6:30, Sunday - CLOSED
+                                    <span className="title">Enviar Email</span>
+                                    Seg - Sex: 8h30 - 17h00, Sabado-Domingo - FECHADO
                                 </div>
                             </li>
                         </ul>
