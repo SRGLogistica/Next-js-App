@@ -12,11 +12,11 @@ export default function Footer1() {
 					<ul className="contact-list-two light">
 						<li>
 						<i className="icon flaticon-global-shipping-1"></i>
-						<div className="text">Endereço <br /> <span> <br />Maputo, Moçambique</span></div>
+						<div className="text">Endereço <br /> <span> <br />Zimpeto,Maputo,Moçambique</span></div>
 						</li>
 						<li>
 						<i className="icon flaticon-stock-1"></i> 
-						<div className="text">Contacto <br /> <Link href="mailto:geral@srg.co.mz">geral@srg.co.mz</Link> <Link href="tel:+92880048720">+92 (8800) 48720</Link></div>
+						<div className="text">Contacto <br /> <Link href="mailto:geral@srg.co.mz">geral@srg.co.mz</Link> <Link href="tel:+258847965281">+258 (84) 796 5281</Link></div>
 						</li>
 						<li>
 						<i className="icon flaticon-24-hours-2"></i><div className="text">Horario <br /> <span>Seg - Sex: 8h30-17h00 <br />Sab -Dom: FECHADO</span></div>
