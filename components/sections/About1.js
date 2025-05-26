@@ -9,23 +9,23 @@ const About1 = () => {
                 <div className="content-column col-lg-6 col-md-12 col-sm-12 wow fadeInLeft">
                   <div className="inner-column">
                     <div className="sec-title">
-                      <span className="sub-title">Welcome Here</span>
-                      <h2 className="scrub-each-word text-split">We provide full range <br />of transportation</h2>
-                      <div className="text">There are many variations of passages of Lorem Ipsum available majority have suffered alteration in some form, by or randomised words which don’t look even slightly believable.</div>
+                      <span className="sub-title">Bem-vindo Aqui!</span>
+                      <h2 className="scrub-each-word text-split">Nós fornecemos gama completa <br />de transporte</h2>
+                      <div className="text">Existem muitas variações de passagens do Lorem Ipsum disponíveis, a maioria sofreu alguma alteração, por palavras aleatórias ou que não parecem nem um pouco críveis..</div>
                     </div>
                     <div className="list-outer-box">
                       <div className="list-box">
                         <ul className="list-style-two">
-                          <li><i className="fa fa-plane"></i> Urgent transport solutions</li>
-                          <li><i className="fa fa-plane"></i> Quality services reasonable price</li>
-                          <li><i className="fa fa-plane"></i> Reliable & experienced staffs</li>
+                          <li><i className="fa fa-plane"></i> Soluções de transporte urgentes</li>
+                          <li><i className="fa fa-plane"></i> Serviços de qualidade preço razoável</li>
+                          <li><i className="fa fa-plane"></i> Equipe confiável e experiente</li>
                         </ul>
-                        <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Discover More</span></Link>
+                        <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Descubra mais</span></Link>
                       </div>
 
                       <div className="exp-box">
                         <i className="icon flaticon-delivery-courier"></i>
-                        <h6 className="title">Meet Our <br />Expert Agents</h6>
+                        <h6 className="title">Conheça nossos  <br />Agentes Especialistas</h6>
                       </div>
                     </div>
                   </div>
@@ -39,7 +39,7 @@ const About1 = () => {
                     <div className="exp-box">
                       <div className="icon-map"></div>
                       <h1 className="count">89<sup>+</sup></h1>
-                      <h6 className="title">Locations World Wide</h6>
+                      <h6 className="title">Locais em todo o mundo</h6>
                     </div>
                   </div>
                 </div>
