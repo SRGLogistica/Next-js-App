@@ -53,7 +53,7 @@ export default function Menu() {
                         <li><Link href="/news-details">News Details</Link></li>
                     </ul>
                 </li>
-                <li><Link href="/page-contact">Contact</Link></li>
+                <li><Link href="/page-contact">Contactos</Link></li>
             </ul>
         </>
     )

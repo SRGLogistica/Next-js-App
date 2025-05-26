@@ -46,7 +46,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                             </button>
 
                             <div className="btn-box">
-                                <Link href="/page-contact" className="theme-btn btn-style-one orange-bg">
+                                <Link href="/page-contact" className="theme-btn btn-style-one yellow-bg">
                                     <span className="btn-title">Solicitar Orçamento</span>
                                 </Link>
                             </div>
@@ -128,7 +128,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                             {/* Logo Sticky */}
                             <div className="logo">
                                 <Link href="/">
-                                    <img src="/images/logo.png" alt="Lozics" />
+                                    <img src="/images/logo.png" alt="SRG" />
                                 </Link>
                             </div>
                             {/* Menu Sticky */}
