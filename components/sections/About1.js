@@ -10,7 +10,7 @@ const About1 = () => {
                   <div className="inner-column">
                     <div className="sec-title">
                       <span className="sub-title">Bem-vindo Aqui!</span>
-                      <h2 className="scrub-each-word text-split">Nós fornecemos gama completa <br />de transporte</h2>
+                      <h2 className="scrub-each-word text-split">Nós fornecemos uma gama completa <br />de transporte</h2>
                       <div className="text">Existem muitas variações de passagens do Lorem Ipsum disponíveis, a maioria sofreu alguma alteração, por palavras aleatórias ou que não parecem nem um pouco críveis..</div>
                     </div>
                     <div className="list-outer-box">
@@ -38,7 +38,7 @@ const About1 = () => {
                     <figure className="image-2 overlay-anim"><img src="images/resource/about1-2.jpg" alt="Image"/></figure>
                     <div className="exp-box">
                       <div className="icon-map"></div>
-                      <h1 className="count">89<sup>+</sup></h1>
+                      <h1 className="count">29<sup>+</sup></h1>
                       <h6 className="title">Locais em todo o mundo</h6>
                     </div>
                   </div>
