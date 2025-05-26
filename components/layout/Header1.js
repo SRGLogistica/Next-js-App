@@ -26,7 +26,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                         <div className="logo-box">
                             <div className="logo">
                                 <Link href="/">
-                                    <img src="/images/logo.png" width="200" height="auto" alt="Lozics" title="Lozics" />
+                                    <img src="/images/logo.png" width="200" height="auto" alt="SRG" title="SRG" />
                                 </Link>
                             </div>
                         </div>
