@@ -12,14 +12,14 @@ export default function Footer1() {
 					<ul className="contact-list-two light">
 						<li>
 						<i className="icon flaticon-global-shipping-1"></i>
-						<div className="text">Address <br /> <span>30 St Kilda Road, Jackson <br />Store, Australia</span></div>
+						<div className="text">Endereço <br /> <span> <br />Maputo, Moçambique</span></div>
 						</li>
 						<li>
 						<i className="icon flaticon-stock-1"></i> 
-						<div className="text">Contact <br /> <Link href="mailto:needhelp@company.com">needhelp@company.com</Link> <Link href="tel:+92880048720">+92 (8800) 48720</Link></div>
+						<div className="text">Contacto <br /> <Link href="mailto:geral@srg.co.mz">geral@srg.co.mz</Link> <Link href="tel:+92880048720">+92 (8800) 48720</Link></div>
 						</li>
 						<li>
-						<i className="icon flaticon-24-hours-2"></i><div className="text">Timing <br /> <span>Mon - Sat: 8 am - 5 pm, <br />Sunday: CLOSED</span></div>
+						<i className="icon flaticon-24-hours-2"></i><div className="text">Horario <br /> <span>Seg - Sex: 8h30-17h00 <br />Sab -Dom: FECHADO</span></div>
 						</li>
 					</ul>
 					</div>
@@ -33,21 +33,21 @@ export default function Footer1() {
 					<div className="footer-column col-lg-3 col-md-6 col-sm-12">
 						<div className="footer-widget about-widget">
 						<div className="logo"><Link href="#"><img src="images/logo-3.png" alt="Logo"/></Link></div>
-						<div className="text">We work with a passion of taking challenges and creating new ones in advertising sector.</div>
-						<Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">About Us</span></Link>
+						<div className="text">Trabalhamos com paixão por assumir desafios e criar novos no setor de publicidade.</div>
+						<Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Sobre nós</span></Link>
 						</div>
 					</div>
 
 					<div className="footer-column col-lg-3 col-md-6 col-sm-12">
 						<div className="footer-widget links-widget">
-						<h4 className="widget-title">Service</h4>
+						<h4 className="widget-title">Serviços</h4>
 						<div className="widget-content">
 							<ul className="user-links">
-							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Reliability & Punctuality</Link></li>
-							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Trusted Franchise</Link></li>
-							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Warehoues Storage</Link></li>
-							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Real Time Tracking</Link></li>
-							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Transparent Pricing</Link></li>
+							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Confiabilidade e Pontualidade</Link></li>
+							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Franquia de Confiança</Link></li>
+							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Armazéns Armazenamento</Link></li>
+							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Rastreamento em tempo real</Link></li>
+							<li><i className="icon fa fa-angle-double-right"></i> <Link href="#">Preços Transparentes</Link></li>
 							</ul>
 						</div>
 						</div>
@@ -55,7 +55,7 @@ export default function Footer1() {
 
 					<div className="footer-column col-lg-3 col-md-6 col-sm-12">
 						<div className="footer-widget gallery-widget">
-						<h4 className="widget-title">Projects</h4>
+						<h4 className="widget-title">Projectos</h4>
 						<div className="widget-content">
 							<div className="insta-gallery">
 							<figure className="image"><Link href="#"><img src="images/resource/gallery-thumb-1.jpg" alt="Image"/></Link></figure>
@@ -72,7 +72,7 @@ export default function Footer1() {
 					<div className="footer-column col-lg-3 col-md-6 col-sm-12">
 						<div className="footer-widget newsletter-widget">
 						<h4 className="widget-title">Newsletter</h4>
-						<div className="text">Subscribe our newsletter to get our latest update & news</div>
+						<div className="text">Assine nossa newsletter para receber nossas últimas atualizações e notícias</div>
 						<div className="newsletter-form">
 							<div className="form-group">
 							<input type="email" name="Email" placeholder="Email....." required/>
@@ -88,7 +88,7 @@ export default function Footer1() {
 				<div className="footer-bottom">
 				<div className="auto-container">
 					<div className="inner-container">
-					<div className="copyright-text">© Copyright 2024 by Company.com</div>
+					<div className="copyright-text">© Copyright GrupoSRG 2025</div>
 					<ul className="social-icon-one light">
 						<li><Link href="#"><i className="fab fa-facebook"></i></Link></li>
 						<li><Link href="#"><i className="fab fa-twitter"></i></Link></li>
