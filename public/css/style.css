@@ -107,11 +107,6 @@ License: copyright commercial
   text-shadow: none;
 }
 
-.amarelo-bg {
-  background-color: #E6CA13;
-}
-
-
 :active,
 :focus {
   outline: none !important;
