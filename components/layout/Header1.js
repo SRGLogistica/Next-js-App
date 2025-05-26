@@ -12,8 +12,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                         <div className="top-left">
                             <ul className="list-style-one light">
                                 <li><i className="fa fa-map-marker-alt"></i> Zimpeto, Maputo, Moçambique</li>
-                                <li><i className="fa fa-clock"></i> Seg - Sáb: 8h - 17h</li>
-                                <li><i className="fa fa-phone"></i> <Link href="tel:+258841234567">+258 (84) 123 4567</Link></li>
+                                <li><i className="fa fa-clock"></i> Seg - Sex: 8h30 - 17h00</li>
+                                <li><i className="fa fa-phone"></i> <Link href="tel:+258847965281">+258 (84) 796 5281</Link></li>
                             </ul>
                         </div>
                         
@@ -78,21 +78,21 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                                 <div className="contact-info-box">
                                     <i className="icon lnr-icon-phone-handset" />
                                     <span className="title">Ligar Agora</span>
-                                    <Link href="tel:+258841234567">+258 (84) 123 4567</Link>
+                                    <Link href="tel:+258847965281">+258 (84) 796 5281</Link>
                                 </div>
                             </li>
                             <li>
                                 <div className="contact-info-box">
                                     <span className="icon lnr-icon-envelope1" />
                                     <span className="title">Enviar Email</span>
-                                    <Link href="mailto:suporte@empresa.co.mz">suporte@empresa.co.mz</Link>
+                                    <Link href="mailto:geral@srg.co.mz">geral@srg.co.mz</Link>
                                 </div>
                             </li>
                             <li>
                                 <div className="contact-info-box">
                                     <span className="icon lnr-icon-clock" />
                                     <span className="title">Horário</span>
-                                    Seg - Sáb: 8h - 17h, Domingo - FECHADO
+                                    Seg - Sex: 8h30 - 17h00, Sabado-Domingo - FECHADO
                                 </div>
                             </li>
                         </ul>
