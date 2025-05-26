@@ -46,7 +46,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                             </button>
 
                             <div className="btn-box">
-                                <Link href="/page-contact" className="theme-btn btn-style-one yellow-bg">
+                                <Link href="/page-contact" className="theme-btn btn-style-one amarelo-bg">
                                     <span className="btn-title">Solicitar Orçamento</span>
                                 </Link>
                             </div>
