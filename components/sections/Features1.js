@@ -8,14 +8,14 @@ const Features1 = () => {
       
               <div className="blocks-column col-lg-9 col-md-12 col-sm-12 order-lg-2">
                 <div className="inner-column">
-                  <h3 className="heading">We only aim to contribute well to <br />your businesses</h3>
+                  <h3 className="heading">Nosso objetivo é apenas contribuir bem para <br />seus negócios</h3>
                   <div className="row">
       
                     <div className="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                       <div className="inner-box">
                         <i className="icon flaticon-checklist"></i>
                         <span className="count">01</span>
-                        <h5 className="title">Cost <br />Optimization</h5>
+                        <h5 className="title">Otimização <br />de custos</h5>
                       </div>
                     </div>
       
@@ -23,7 +23,7 @@ const Features1 = () => {
                       <div className="inner-box">
                         <i className="icon flaticon-order"></i>
                         <span className="count">02</span>
-                        <h5 className="title">Reduce <br />Transit Timing</h5>
+                        <h5 className="title">Reduzir <br />o tempo de trânsito</h5>
                       </div>
                     </div>
       
@@ -31,7 +31,7 @@ const Features1 = () => {
                       <div className="inner-box">
                         <i className="icon flaticon-import"></i>
                         <span className="count">03</span>
-                        <h5 className="title">Warehouse <br />Operation</h5>
+                        <h5 className="title">Operação <br />de armazém</h5>
                       </div>
                     </div>
                   </div>
@@ -41,7 +41,7 @@ const Features1 = () => {
                       <img src="images/resource/avatar-1.jpg" alt="Image"/>
                       <img src="images/resource/avatar-2.jpg" alt="Image"/>
                     </div>
-                    <h5 className="title">Trusted by 89000. Moving your parcel across the world</h5>
+                    <h5 className="title">Confiado por 669. Movendo seu par pelo mundo</h5>
                   </div>
                 </div>
               </div>
