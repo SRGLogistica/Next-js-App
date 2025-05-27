@@ -22,10 +22,11 @@ const Banner2 = () => {
                         <div className="bg-shape"></div>
                         <div className="auto-container">
                             <div className="content-box">
-                                <h1 className="title">We’re Global <br />Logistics Providers</h1>
-                                <div className="text">System is a term used to refer to an organized collection symbols and processes <br />that may be used to operate on such symbols.</div>
+                                <h1 className="title">Somos provedores  <br />globais de logística</h1>
+                                <div className="text">Sistema é um termo usado para se referir a uma coleção organizada de símbolos e processos <br />que podem ser usados ​​para operar em tais símbolos.</div>
                                 <div className="btn-box">
-                                <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Discover More</span></Link>
+                                <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Descubra mais
+                                </span></Link>
                                 </div>
                             </div>
                         </div>
@@ -36,10 +37,10 @@ const Banner2 = () => {
                         <div className="bg-shape"></div>
                         <div className="auto-container">
                             <div className="content-box">
-                                <h1 className="title">We’re Global <br />Logistics Providers</h1>
-                                <div className="text">System is a term used to refer to an organized collection symbols and processes <br />that may be used to operate on such symbols.</div>
+                                <h1 className="title">Somos provedores  <br />globais de logística</h1>
+                                <div className="text">Sistema é um termo usado para se referir a uma coleção organizada de símbolos e processos  <br />que podem ser usados ​​para operar em tais símbolos..</div>
                                 <div className="btn-box">
-                                <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Discover More</span></Link>
+                                <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Descubra mais</span></Link>
                                 </div>
                             </div>
                         </div>

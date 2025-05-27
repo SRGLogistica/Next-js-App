@@ -9,8 +9,8 @@ const CallToAction2 = () => {
                 <div className="bg bg-image" style={{ backgroundImage: 'url(/images/background/6.jpg)' }}></div>
                 <div className="icon-shape-3"></div>
                 <div className="content">
-                  <h2 className="title scrub-each-word text-split">Looking for the best <br />logistics transport  service?</h2>
-                  <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Discover More</span></Link>
+                  <h2 className="title scrub-each-word text-split">Procurando o melhor <br />serviço de transporte logístico?</h2>
+                  <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Descubra mais </span></Link>
                 </div>
               </div>
             </div>
