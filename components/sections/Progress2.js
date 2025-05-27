@@ -13,9 +13,9 @@ const Progress2 = () => {
                     <div className="blocks-column col-lg-9 col-md-12 col-sm-12">
                     <div className="inner-column">
                         <div className="sec-title">
-                        <span className="sub-title">Why choose us</span>
-                        <h2 className="scrub-each-word text-split">We create opportunity <br />to reach potential</h2>
-                        <div className="text">There are many variations of simply free text passages of available but the <br />majority have suffered alteration in some form.</div>
+                        <span className="sub-title">Por que nos escolher?</span>
+                        <h2 className="scrub-each-word text-split">Criamos oportunidades <br />para atingir o potencial</h2>
+                        <div className="text">Existem muitas variações de passagens de texto simplesmente livres disponíveis, mas <br />a maioria sofreu alguma alteração.</div>
                         </div>
                         <div className="skills">
                         <div className="skill-item">
@@ -38,7 +38,7 @@ const Progress2 = () => {
                             <div className="inner-box">
                             <i className="icon flaticon-checklist"></i>
                             <span className="count">01</span>
-                            <h5 className="title">Cost <br />Optimization</h5>
+                            <h5 className="title">Otimização <br />de custos</h5>
                             </div>
                         </div>
                         
@@ -46,7 +46,7 @@ const Progress2 = () => {
                             <div className="inner-box">
                             <i className="icon flaticon-order"></i>
                             <span className="count">02</span>
-                            <h5 className="title">Reduce <br />Transit Timing</h5>
+                            <h5 className="title">Reduz  <br />o tempo de trânsito</h5>
                             </div>
                         </div>
                         
@@ -54,7 +54,7 @@ const Progress2 = () => {
                             <div className="inner-box">
                             <i className="icon flaticon-import"></i>
                             <span className="count">03</span>
-                            <h5 className="title">Warehouse <br />Operation</h5>
+                            <h5 className="title">Operação <br />de Armazém</h5>
                             </div>
                         </div>
                         </div>
