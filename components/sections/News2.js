@@ -54,8 +54,8 @@ const News2 = () => {
 				<div className="content-column col-lg-4 col-md-12 col-sm-12">
 				<div className="inner-column">
 					<div className="sec-title">
-					<span className="sub-title">From Blog Posts</span>
-					<h2 className="scrub-each-word text-split">Latest news & articles</h2>
+					<span className="sub-title">De postagens de blog</span>
+					<h2 className="scrub-each-word text-split">Últimas notícias & artigos</h2>
 					</div>
 				</div>
 				</div>
@@ -75,13 +75,13 @@ const News2 = () => {
 									</figure>
 								</div>
 								<div className="content-box">
-									<div className="date">28<span>July</span></div>
+									<div className="date">28<span>Maio</span></div>
 									<ul className="post-meta">
 									<li><i className="fa fa-user-circle"></i>by Admin</li>
-									<li><i className="fa fa-comment"></i>2 Comments</li>
+									<li><i className="fa fa-comment"></i>2 Comentários</li>
 									</ul>
-									<h5 className="title"><Link href="news-details">We carefully handle the valueable goods</Link></h5>
-									<Link className="read-more" href="news-details">Read More <i className="icon fa fa-angle-right"></i></Link>
+									<h5 className="title"><Link href="news-details">Nós lidamos cuidadosamente com bens valiosos</Link></h5>
+									<Link className="read-more" href="news-details">Ler mais <i className="icon fa fa-angle-right"></i></Link>
 								</div>
 								</div>
 							</div>
@@ -98,13 +98,13 @@ const News2 = () => {
 									</figure>
 								</div>
 								<div className="content-box">
-									<div className="date">28<span>July</span></div>
+									<div className="date">28<span>Maio</span></div>
 									<ul className="post-meta">
 									<li><i className="fa fa-user-circle"></i>by Admin</li>
-									<li><i className="fa fa-comment"></i>2 Comments</li>
+									<li><i className="fa fa-comment"></i>2 Comentários</li>
 									</ul>
-									<h5 className="title"><Link href="news-details">We carefully handle the valueable goods</Link></h5>
-									<Link className="read-more" href="news-details">Read More <i className="icon fa fa-angle-right"></i></Link>
+									<h5 className="title"><Link href="news-details">Nós lidamos cuidadosamente com bens valiosos</Link></h5>
+									<Link className="read-more" href="news-details">Ler mais <i className="icon fa fa-angle-right"></i></Link>
 								</div>
 								</div>
 							</div>
@@ -121,13 +121,13 @@ const News2 = () => {
 									</figure>
 								</div>
 								<div className="content-box">
-									<div className="date">28<span>July</span></div>
+									<div className="date">28<span>Maio</span></div>
 									<ul className="post-meta">
 									<li><i className="fa fa-user-circle"></i>by Admin</li>
-									<li><i className="fa fa-comment"></i>2 Comments</li>
+									<li><i className="fa fa-comment"></i>2 Comentários</li>
 									</ul>
-									<h5 className="title"><Link href="news-details">We carefully handle the valueable goods</Link></h5>
-									<Link className="read-more" href="news-details">Read More <i className="icon fa fa-angle-right"></i></Link>
+									<h5 className="title"><Link href="news-details">Nós lidamos cuidadosamente com bens valiosos</Link></h5>
+									<Link className="read-more" href="news-details">Ler mais<i className="icon fa fa-angle-right"></i></Link>
 								</div>
 								</div>
 							</div>
@@ -144,13 +144,13 @@ const News2 = () => {
 									</figure>
 								</div>
 								<div className="content-box">
-									<div className="date">28<span>July</span></div>
+									<div className="date">28<span>Abril</span></div>
 									<ul className="post-meta">
 									<li><i className="fa fa-user-circle"></i>by Admin</li>
-									<li><i className="fa fa-comment"></i>2 Comments</li>
+									<li><i className="fa fa-comment"></i>2 Comentários</li>
 									</ul>
-									<h5 className="title"><Link href="news-details">We carefully handle the valueable goods</Link></h5>
-									<Link className="read-more" href="news-details">Read More <i className="icon fa fa-angle-right"></i></Link>
+									<h5 className="title"><Link href="news-details">Nós lidamos cuidadosamente com bens valiosos</Link></h5>
+									<Link className="read-more" href="news-details">Ler mais <i className="icon fa fa-angle-right"></i></Link>
 								</div>
 								</div>
 							</div>
