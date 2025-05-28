@@ -12,7 +12,7 @@ export default function Footer1() {
 					<ul className="contact-list-two light">
 						<li>
 						<i className="icon flaticon-global-shipping-1"></i>
-						<div className="text">Endereço <br />Zimpeto,Maputo,Moçambique  <span> <br />Palm Square,Shoprite </span></div>
+						<div className="text">Endereço <br />  <span>Zimpeto,Maputo,Moçambique <br />Palm Square,Shoprite </span></div>
 						</li>
 						<li>
 						<i className="icon flaticon-stock-1"></i> 
