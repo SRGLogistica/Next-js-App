@@ -7,7 +7,7 @@ const Subscription1 = () => {
                 <div className="icon-arrow-2"></div>
                 <div className="icon-block"></div>
                 <div className="title-box">
-                  <h3 className="title">Track your <br />Order</h3>
+                  <h3 className="title">Acompanhe seu  <br />Pedido</h3>
                 </div>
                 <div className="subscribe-form">
                   <form action="#">
@@ -15,19 +15,19 @@ const Subscription1 = () => {
                       <div className="form-group col-lg-5 col-md-5">
                         <div className="input-outer">
                           <i className="icon fal fa-user"></i>
-                          <input type="text" name="Tracking ID" placeholder="Your Tracking ID Now" required/>
+                          <input type="text" name="Tracking ID" placeholder="Seu ID de rastreamento aqui" required/>
                         </div>
                       </div>
 
                       <div className="form-group col-lg-5 col-md-5">
                         <div className="input-outer">
                           <i className="icon fal fa-envelope"></i>
-                          <input type="email" name="email" placeholder="Your Email Address" required/>
+                          <input type="email" name="email" placeholder="Seu endereço de email" required/>
                         </div>
                       </div>
 
                       <div className="form-group col-lg-2 col-md-2">
-                        <button className="theme-btn btn-style-one"><span className="btn-title">Track Order</span></button>
+                        <button className="theme-btn btn-style-one"><span className="btn-title">Rastrear pedido</span></button>
                       </div>
                     </div>
                   </form>

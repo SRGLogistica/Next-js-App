@@ -12,7 +12,7 @@ export default function Footer1() {
 					<ul className="contact-list-two light">
 						<li>
 						<i className="icon flaticon-global-shipping-1"></i>
-						<div className="text">Endereço <br /> <span> <br />Zimpeto,Maputo,Moçambique</span></div>
+						<div className="text">Endereço <br />Zimpeto,Maputo,Moçambique  <span> <br />Palm Square,Shoprite </span></div>
 						</li>
 						<li>
 						<i className="icon flaticon-stock-1"></i> 
@@ -88,7 +88,7 @@ export default function Footer1() {
 				<div className="footer-bottom">
 				<div className="auto-container">
 					<div className="inner-container">
-					<div className="copyright-text">© Copyright GrupoSRG 2025</div>
+					<div className="copyright-text">Copyright © 2025 SRG. Todos os direitos reservados</div>
 					<ul className="social-icon-one light">
 						<li><Link href="#"><i className="fab fa-facebook"></i></Link></li>
 						<li><Link href="#"><i className="fab fa-twitter"></i></Link></li>

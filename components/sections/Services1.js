@@ -6,8 +6,8 @@ const Services1 = () => {
             <div className="bg bg-pattern-2"></div>
             <div className="auto-container">
               <div className="sec-title text-center">
-                <span className="sub-title">Our All Services</span>
-                <h2 className="scrub-each-word text-split">We’re offering special <br/>logistics services</h2>
+                <span className="sub-title">Todos nossos serviços</span>
+                <h2 className="scrub-each-word text-split">Oferecemos os melhores  <br/>serviços de logistica</h2>
               </div>
               <div className="row">
 
@@ -20,8 +20,8 @@ const Services1 = () => {
                     <div className="content">
                       <div className="bg-color"></div>
                       <i className="icon flaticon-air"></i>
-                      <h4 className="title"><Link href="page-service-details">Air Freight</Link></h4>
-                      <div className="text">Lorem ipsum dolor sit amet, simply free text available in the consectetur adipiscing.</div>
+                      <h4 className="title"><Link href="page-service-details">Via Aérea</Link></h4>
+                      <div className="text">Lorem ipsum</div>
                     </div>
                   </div>
                 </div>
@@ -35,8 +35,8 @@ const Services1 = () => {
                     <div className="content">
                       <div className="bg-color"></div>
                       <i className="icon flaticon-cargo-boat"></i>
-                      <h4 className="title"><Link href="page-service-details">Sea Transport</Link></h4>
-                      <div className="text">Lorem ipsum dolor sit amet, simply free text available in the consectetur adipiscing.</div>
+                      <h4 className="title"><Link href="page-service-details">Via Marítima</Link></h4>
+                      <div className="text">Lorem ipsum</div>
                     </div>
                   </div>
                 </div>
@@ -50,8 +50,8 @@ const Services1 = () => {
                     <div className="content">
                       <div className="bg-color"></div>
                       <i className="icon flaticon-truck"></i>
-                      <h4 className="title"><Link href="page-service-details">Road Transport</Link></h4>
-                      <div className="text">Lorem ipsum dolor sit amet, simply free text available in the consectetur adipiscing.</div>
+                      <h4 className="title"><Link href="page-service-details">Via Terrestre</Link></h4>
+                      <div className="text">Lorem ipsum</div>
                     </div>
                   </div>
                 </div>

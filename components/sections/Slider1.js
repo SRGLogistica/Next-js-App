@@ -26,8 +26,8 @@ const Slider1 = () => {
           <div className="auto-container content-box pt-100 pb-100">
               <div className="row">
                   <div className="content-column col-lg-7 col-md-12 col-sm-12 pt-100">
-                    <span className="sub-title animate-1">Fast and reliable shipping</span>
-                    <h1 className="animate-2">Cost Effective <br className="d-none d-lg-block"/> Digital Marketing <br className="d-none d-lg-block"/> Agency</h1>
+                    <span className="sub-title animate-1">Envio rápido e confiável</span>
+                    <h1 className="animate-2">Econômico <br className="d-none d-lg-block"/> Digital Marketing <br className="d-none d-lg-block"/> Agency</h1>
                     <div className="btn-box mt-50">
                       <div className="btn-outer">
                         <Link href="page-contact" className="theme-btn btn-style-one animate-3"><span className="btn-title">Get Started</span></Link>
@@ -36,8 +36,8 @@ const Slider1 = () => {
                   </div>
                   <div className="image-column col-lg-5 col-md-12 col-sm-12">
                     <div className="exp-box z-index-1 animate-5">
-                        <span className="sub-title">Trusted by</span>
-                        <h3 className="title">4890</h3>
+                        <span className="sub-title">Confiado por</span>
+                        <h3 className="title">487</h3>
                     </div>
                       <div className="image-box">
                           <figure className="image animate-5"><img src="/images/main-slider/bus.png" alt=""/>
@@ -54,8 +54,8 @@ const Slider1 = () => {
           <div className="auto-container content-box pt-100 pb-100">
               <div className="row">
                   <div className="content-column col-lg-7 col-md-12 col-sm-12 pt-100">
-                    <span className="sub-title animate-1">Fast and reliable shipping</span>
-                    <h1 className="animate-2">Cost Effective <br className="d-none d-lg-block"/> Digital Marketing <br className="d-none d-lg-block"/> Agency</h1>
+                    <span className="sub-title animate-1">Envio rápido e confiável</span>
+                    <h1 className="animate-2">Econômico <br className="d-none d-lg-block"/> Digital Marketing <br className="d-none d-lg-block"/> Agency</h1>
                     <div className="btn-box mt-50">
                       <div className="btn-outer">
                         <Link href="page-contact" className="theme-btn btn-style-one animate-3"><span className="btn-title">Get Started</span></Link>
@@ -64,8 +64,8 @@ const Slider1 = () => {
                   </div>
                   <div className="image-column col-lg-5 col-md-12 col-sm-12">
                     <div className="exp-box z-index-1 animate-5">
-                        <span className="sub-title">Trusted by</span>
-                        <h3 className="title">4890</h3>
+                        <span className="sub-title">Confiado por</span>
+                        <h3 className="title">487</h3>
                     </div>
                       <div className="image-box">
                           <figure className="image animate-5"><img src="/images/main-slider/bus.png" alt=""/>
