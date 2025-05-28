@@ -43,7 +43,7 @@ const WhyChooseUs1 = () => {
                     <div className="icon-building"></div>
                     <i className="icon flaticon-logistics-2"></i>
                     <ul className="list-style-two light">
-                      <li><i className="fa fa-plane"></i> Vantagens de importar connosco</li>
+                      <li><i className="fa fa-plane"></i> Vantagens de importar connosco:</li>
                       <li><i className="fa fa-plane"></i> Apoio total no processo</li>
                       <li><i className="fa fa-plane"></i> Preço por CBM fixo e acessível</li>
                       <li><i className="fa fa-plane"></i> Levantamento rápido em Maputo</li>
