@@ -31,7 +31,16 @@ const Testimonial1 = () => {
 					<div className="testimonial-block">
 						<div className="inner-box">
 							<div className="icon-quote"></div>
-							<div className="text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</div>
+							<div className="text">Isso se deve ao excelente serviço, preços competitivos e suporte ao cliente. É extremamente revigorante receber um toque tão pessoal.</div>
+							<h5 className="name">Sergio Machel <span className="designation">- Co Founder</span></h5>
+						</div>
+					</div>
+				</SwiperSlide>
+				<SwiperSlide>
+					<div className="testimonial-block">
+						<div className="inner-box">
+							<div className="icon-quote"></div>
+							<div className="text">Isso se deve ao excelente serviço, preços competitivos e suporte ao cliente. É extremamente revigorante receber um toque tão pessoal.</div>
 							<h5 className="name">Donald hardson <span className="designation">- Co Founder</span></h5>
 						</div>
 					</div>
@@ -40,16 +49,7 @@ const Testimonial1 = () => {
 					<div className="testimonial-block">
 						<div className="inner-box">
 							<div className="icon-quote"></div>
-							<div className="text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</div>
-							<h5 className="name">Donald hardson <span className="designation">- Co Founder</span></h5>
-						</div>
-					</div>
-				</SwiperSlide>
-				<SwiperSlide>
-					<div className="testimonial-block">
-						<div className="inner-box">
-							<div className="icon-quote"></div>
-							<div className="text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</div>
+							<div className="text">Isso se deve ao excelente serviço, preços competitivos e suporte ao cliente. É extremamente revigorante receber um toque tão pessoal.</div>
 							<h5 className="name">Donald hardson <span className="designation">- Co Founder</span></h5>
 						</div>
 					</div>
@@ -61,8 +61,8 @@ const Testimonial1 = () => {
       <div className="contact-column col-xl-3 col-lg-6 col-md-12 col-sm-12">
         <div className="inner-column">
           <div className="icon-globe"></div>
-          <a href="0123456789" className="phone">+ 012 345 6789</a>
-          <div className="text">We’re Optimists Who Love to Work Together</div>
+          <a href="0123456789" className="phone">+258 84 796 5281</a>
+          <div className="text">Somos otimistas que amam trabalhar juntos</div>
           <Link href="page-contact" className="theme-btn btn-style-one hover-light"><span className="btn-title">Contact Us</span></Link>
         </div>
       </div>
@@ -77,7 +77,7 @@ const Testimonial1 = () => {
                   <i className="icon flaticon-truck"></i>
                   <div className="content">
                     <div className="counter-one"><CounterUp count={300} time={3} /></div>
-                    <div className="counter-text">Branches <br />Across the World</div>
+                    <div className="counter-text">Filiais em todo <br />o mundo</div>
                   </div>
                 </div>
               </div>
@@ -87,7 +87,7 @@ const Testimonial1 = () => {
                   <i className="icon flaticon-order"></i>
                   <div className="content">
                     <div className="counter-one"><CounterUp count={489} time={3} /></div>
-                    <div className="counter-text">Parcels <br />Delivered by Riders</div>
+                    <div className="counter-text">Encomendas entregues<br />por entregadores</div>
                   </div>
                 </div>
               </div>
