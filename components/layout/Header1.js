@@ -11,9 +11,9 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                     <div className="inner-container">
                         <div className="top-left">
                             <ul className="list-style-one light">
-                                <li><i className="fa fa-map-marker-alt"></i> Zimpeto, Maputo, Moçambique</li>
+                                <li><i className="fa fa-map-marker-alt"></i> Av. de Moçambique, Zimpeto</li>
                                 <li><i className="fa fa-clock"></i> Seg - Sex: 8h30 - 17h00</li>
-                                <li><i className="fa fa-phone"></i> <Link href="tel:+258847965281">+258 (84) 796 5281</Link></li>
+                                <li><i className="fa fa-phone"></i> <Link href="tel:+21 083 657">+21 083 657</Link></li>
                             </ul>
                         </div>
                         
