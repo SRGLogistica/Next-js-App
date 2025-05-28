@@ -46,8 +46,8 @@ const Project1 = () => {
 			<div className="icon-plane-2 bounce-y"></div>
 			<div className="auto-container">
 			<div className="sec-title mb-0">
-				<span className="sub-title">Work Showcase</span>
-				<h2 className="scrub-each-word text-split">Recent Portfolios</h2>
+				<span className="sub-title">Vitrine de trabalho</span>
+				<h2 className="scrub-each-word text-split">Portfolios Recentes</h2>
 			</div>
 			<div className="carousel-outer">
 					<Swiper {...swiperOptions} className="project-carousel owl-carousel owl-theme default-navs">
@@ -56,8 +56,8 @@ const Project1 = () => {
 								<div className="inner-box overlay-anim-two">
 								<figure className="image"><img src="images/resource/project1-1.jpg" alt="Image"/></figure>
 								<div className="content">
-									<span className="cat">Logistics</span>
-									<h5 className="title">Get the Special <br />Transport</h5>
+									<span className="cat">Logistica</span>
+									<h5 className="title">Obtenha os melhores <br />Transportes</h5>
 									<Link href="page-project-details" className="read-more"><i className="fa fa-long-arrow-right"></i></Link>
 								</div>
 								</div>
@@ -68,8 +68,8 @@ const Project1 = () => {
 								<div className="inner-box overlay-anim-two">
 								<figure className="image"><img src="images/resource/project1-2.jpg" alt="Image"/></figure>
 								<div className="content">
-									<span className="cat">Logistics</span>
-									<h5 className="title">Get the Special <br />Transport</h5>
+									<span className="cat">Logistica</span>
+									<h5 className="title">Obtenha os melhores <br />Transportes</h5>
 									<Link href="page-project-details" className="read-more"><i className="fa fa-long-arrow-right"></i></Link>
 								</div>
 								</div>
@@ -80,8 +80,8 @@ const Project1 = () => {
 								<div className="inner-box overlay-anim-two">
 								<figure className="image"><img src="images/resource/project1-3.jpg" alt="Image"/></figure>
 								<div className="content">
-									<span className="cat">Logistics</span>
-									<h5 className="title">Get the Special <br />Transport</h5>
+									<span className="cat">Logistica</span>
+									<h5 className="title">Obtenha os melhores <br />Transportes</h5>
 									<Link href="page-project-details" className="read-more"><i className="fa fa-long-arrow-right"></i></Link>
 								</div>
 								</div>
@@ -92,8 +92,8 @@ const Project1 = () => {
 								<div className="inner-box overlay-anim-two">
 								<figure className="image"><img src="images/resource/project1-4.jpg" alt="Image"/></figure>
 								<div className="content">
-									<span className="cat">Logistics</span>
-									<h5 className="title">Get the Special <br />Transport</h5>
+									<span className="cat">Logistica</span>
+									<h5 className="title">Obtenha os melhores <br />Transportes</h5>
 									<Link href="page-project-details" className="read-more"><i className="fa fa-long-arrow-right"></i></Link>
 								</div>
 								</div>
@@ -104,8 +104,8 @@ const Project1 = () => {
 								<div className="inner-box overlay-anim-two">
 								<figure className="image"><img src="images/resource/project1-1.jpg" alt="Image"/></figure>
 								<div className="content">
-									<span className="cat">Logistics</span>
-									<h5 className="title">Get the Special <br />Transport</h5>
+									<span className="cat">Logistica</span>
+									<h5 className="title">Obtenha os melhores <br />Transportes</h5>
 									<Link href="page-project-details" className="read-more"><i className="fa fa-long-arrow-right"></i></Link>
 								</div>
 								</div>
