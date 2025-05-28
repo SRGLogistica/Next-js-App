@@ -55,10 +55,10 @@ const Slider1 = () => {
               <div className="row">
                   <div className="content-column col-lg-7 col-md-12 col-sm-12 pt-100">
                     <span className="sub-title animate-1">Envio rápido e confiável</span>
-                    <h1 className="animate-2">Econômico <br className="d-none d-lg-block"/> Digital Marketing <br className="d-none d-lg-block"/> Agency</h1>
+                    <h1 className="animate-2">Soluções  <br className="d-none d-lg-block"/> de Marketing Digital <br className="d-none d-lg-block"/> com Custo-Benefício</h1>
                     <div className="btn-box mt-50">
                       <div className="btn-outer">
-                        <Link href="page-contact" className="theme-btn btn-style-one animate-3"><span className="btn-title">Get Started</span></Link>
+                        <Link href="page-contact" className="theme-btn btn-style-one animate-3"><span className="btn-title">Comece Aqui</span></Link>
                       </div>
                     </div><div className="icon-plane bounce-x animate-4"></div>
                   </div>
