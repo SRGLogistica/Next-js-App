@@ -9,17 +9,17 @@ const WhyChooseUs1 = () => {
               <div className="content-column col-lg-6 col-md-12 col-sm-12 wow fadeInLeft">
                 <div className="inner-column">
                   <div className="sec-title">
-                    <span className="sub-title">Why choose us</span>
-                    <h2 className="scrub-each-word text-split">We create opportunity <br />to reach potential</h2>
+                    <span className="sub-title">Por que nos escolher</span>
+                    <h2 className="scrub-each-word text-split">Criamos oportunidades <br />para atingir potenciais</h2>
                   </div>
-                  <h4 className="title">Simplify your freight and logistics needs with <br />a personal approch.</h4>
+                  <h4 className="title">Simplifique suas necessidades de frete e logística com <br />uma abordagem pessoal.</h4>
 
                   <div className="choose-block">
                     <div className="inner-box">
                       <i className="icon flaticon-order"></i>
                       <div className="content">
-                        <h5 className="title">Safety and reliability</h5>
-                        <div className="text">Aenean placerat ut lacus nec pulvinar. Donec eu leo, ante at, commodo diam.</div>
+                        <h5 className="title">Segurança e confiabilidade</h5>
+                        <div className="text">Garantimos que o seu pedido esteja seguro.</div>
                       </div>
                     </div>
                   </div>
@@ -28,8 +28,8 @@ const WhyChooseUs1 = () => {
                     <div className="inner-box">
                       <i className="icon flaticon-logistics-1"></i>
                       <div className="content">
-                        <h5 className="title">Shopping worldwide</h5>
-                        <div className="text">Aenean placerat ut lacus nec pulvinar. Donec eu leo, ante at, commodo diam.</div>
+                        <h5 className="title">Compras em todo o mundo</h5>
+                        <div className="text">Garantimos que o seu pedido esteja seguro.</div>
                       </div>
                     </div>
                   </div>
@@ -51,8 +51,8 @@ const WhyChooseUs1 = () => {
                     </ul>
                   </div>
                   <div className="exp-box bounce-x">
-                    <span className="sub-title">Trusted by</span>
-                    <h3 className="title">4890</h3>
+                    <span className="sub-title">Confiado por</span>
+                    <h3 className="title">487</h3>
                   </div>
                 </div>
               </div>

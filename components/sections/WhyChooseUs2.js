@@ -9,20 +9,20 @@ const WhyChooseUs2 = () => {
                 <div className="content-column col-xl-6 col-lg-7 col-md-12 col-sm-12 wow fadeInLeft">
                   <div className="inner-column">
                     <div className="sec-title light">
-                      <span className="sub-title">Why choose us</span>
-                      <h2 className="scrub-each-word text-split">We create opportunity <br />to reach potential</h2>
+                      <span className="sub-title">Por que nos escolher</span>
+                      <h2 className="scrub-each-word text-split">Criamos oportunidades<br />para atingir potenciais</h2>
                       <div className="text">Alteration in some form, lipsum is simply free text by injected humou or randomised words even believable.</div>
                     </div>
                     <div className="title-box">
                       <div className="image"><img src="images/resource/choose2-2.jpg" alt="Image"/></div>
-                      <h5 className="title">Global Logistics Solution Provider <br />Since <span>1996</span></h5>
+                      <h5 className="title">Provedor de soluções de logística global<br />Desde <span>202</span></h5>
                     </div>
                     <div className="row g-0">
                       <div className="choose-block-two col-lg-6 col-md-6 col-sm-6">
                         <div className="inner-box">
                           <i className="icon flaticon-shield"></i>
                           <div className="content">
-                            <h6 className="title">Safety & Reliable <br />Service</h6>
+                            <h6 className="title">Segurança e Confiabilidade <br />Serviços</h6>
                           </div>
                         </div>
                       </div>
@@ -31,7 +31,7 @@ const WhyChooseUs2 = () => {
                         <div className="inner-box">
                           <i className="icon flaticon-delivery-box"></i>
                           <div className="content">
-                            <h6 className="title">Real Time Tracking <br />System</h6>
+                            <h6 className="title">Sistema de Rastreamento em  <br />tempo real</h6>
                           </div>
                         </div>
                       </div>
