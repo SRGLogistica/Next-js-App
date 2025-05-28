@@ -41,7 +41,7 @@ const Features1 = () => {
                       <img src="images/resource/avatar-1.jpg" alt="Image"/>
                       <img src="images/resource/avatar-2.jpg" alt="Image"/>
                     </div>
-                    <h5 className="title">Confiado por 669. Movendo seu par pelo mundo</h5>
+                    <h5 className="title">Confiado por centenas. Movendo seu par pelo mundo</h5>
                   </div>
                 </div>
               </div>

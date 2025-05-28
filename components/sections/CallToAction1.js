@@ -10,8 +10,8 @@ const CallToAction1 = () => {
 
               <div className="title-box">
                 <div className="inner-column">
-                  <span className="sub-title">Quisque vel ortor</span>
-                  <h3 className="title">Pronto para enviar sua encomenda conosco</h3>
+                  <span className="sub-title">Importa Aqui!</span>
+                  <h3 className="title">Pronto para enviar sua encomenda conosco?</h3>
                 </div>
               </div>
 

@@ -32,7 +32,7 @@ const Testimonial1 = () => {
 						<div className="inner-box">
 							<div className="icon-quote"></div>
 							<div className="text">Isso se deve ao excelente serviço, preços competitivos e suporte ao cliente. É extremamente revigorante receber um toque tão pessoal.</div>
-							<h5 className="name">Sergio Machel <span className="designation">- Co Founder</span></h5>
+							<h5 className="name">Custoc Machel <span className="designation">- Co Founder</span></h5>
 						</div>
 					</div>
 				</SwiperSlide>

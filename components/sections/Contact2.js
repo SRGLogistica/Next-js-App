@@ -16,8 +16,8 @@ const Contact2 = () => {
                   <div className="content-column col-xl-6 col-lg-12 col-md-12 col-sm-12 wow fadeInLeft">
                     <div className="inner-column">
                       <div className="sec-title">
-                        <span className="sub-title">Reach Us Now</span>
-                        <h2 className="scrub-each-word text-split">Take full control on shipping</h2>
+                        <span className="sub-title">Entre em contato conosco agora</span>
+                        <h2 className="scrub-each-word text-split">Assuma o controle total do envio</h2>
                       </div>
                     </div>
                   </div>
@@ -29,12 +29,12 @@ const Contact2 = () => {
                           <div className="row">
 
                             <div className="form-group col-lg-12 col-md-12">
-                              <label>Your Name:</label>
+                              <label>Seu nome:</label>
                               <input type="text" name="name" required/>
                             </div>
                             
                             <div className="form-group col-lg-6 col-md-6">
-                              <label>Your Email:</label>
+                              <label>Seu Email:</label>
                               <input type="email" name="email" required/>
                             </div>
                             
@@ -61,22 +61,22 @@ const Contact2 = () => {
                             </div>
                             
                             <div className="form-group col-lg-6 col-md-6 col-sm-6">
-                              <label>Freight Type:</label>
+                              <label>Tipo de frete:</label>
                               <select className="custom-select">
-                                <option value="">Select</option>
-                                <option value="">Air Freight</option>
-                                <option value="">Sea Freight</option>
-                                <option value="">Road Freight</option>
+                                <option value="">Selecione</option>
+                                <option value="">Via Aérea</option>
+                                <option value="">Via Marítima</option>
+                                <option value="">Via Terrestre</option>
                               </select>
                             </div>
                             
                             <div className="form-group col-lg-6 col-md-6 col-sm-6">
-                              <label>Load:</label>
+                              <label>Carregar:</label>
                               <select className="custom-select">
-                                <option value="">Select</option>
-                                <option value="">Air Freight</option>
-                                <option value="">Sea Freight</option>
-                                <option value="">Road Freight</option>
+                                <option value="">Selecione</option>
+                                <option value="">Via Aérea</option>
+                                <option value="">Via Marítima</option>
+                                <option value="">Via Terrestre</option>
                               </select>
                             </div>
 
