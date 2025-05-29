@@ -81,7 +81,7 @@ const Contact2 = () => {
                             </div>
 
                             <div className="form-group col-lg-12">
-                              <button type="submit" className="theme-btn btn-style-one" name="submit-form"><span className="btn-title">Submit request</span></button>
+                              <button type="submit" className="theme-btn btn-style-one" name="submit-form"><span className="btn-title">Enviar solicitação</span></button>
                             </div>
                           </div>
                         </form>

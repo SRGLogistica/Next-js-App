@@ -63,8 +63,8 @@ const Team2 = () => {
                   <div className="inner-box">
                     <figure className="image"><Link href="page-team-details"><img src="images/resource/team1-4.jpg" alt="image"/></Link></figure>
                     <div className="info-box">
-                      <span className="designation">Consultora</span>
-                      <h5 className="name"><Link href="page-team-details">Sarah Albert</Link></h5>
+                      <span className="designation">Consultor</span>
+                      <h5 className="name"><Link href="page-team-details">Sergio Machel</Link></h5>
                       <span className="share-icon fa fa-share-alt"></span>
                       <div className="social-links">
                         <Link href="#"><i className="fab fa-facebook"></i></Link>
