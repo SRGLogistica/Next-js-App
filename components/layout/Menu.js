@@ -7,17 +7,17 @@ export default function Menu() {
             <ul className="navigation">
                 <li className="current dropdown"><Link href="/">Início</Link>
                     <ul>
-                        <li><Link href="/">Home page 01</Link></li>
-                        <li><Link href="/index-2">Home page 02</Link></li>
+                        <li><Link href="/">Início 01</Link></li>
+                        <li><Link href="/index-2">Início 02</Link></li>
                     </ul>
                 </li>
-                 <li className="dropdown"><Link href="/page-about">Pages</Link>
+                 <li className="dropdown"><Link href="/page-about">Paginas</Link>
                     <ul>
-                        <li><Link href="/page-about">About</Link></li>
-                        <li className="dropdown"><Link href="/page-team">Team</Link>
+                        <li><Link href="/page-about">Sobre</Link></li>
+                        <li className="dropdown"><Link href="/page-team">Equipe</Link>
                             <ul>
-                                <li><Link href="/page-team">Team Grid</Link></li>
-                                <li><Link href="/page-team-details">Team Details</Link></li>
+                                <li><Link href="/page-team">Grelha de Equipe</Link></li>
+                                <li><Link href="/page-team-details">Detalhes da Equipe</Link></li>
                             </ul>
                         </li>
                         <li><Link href="/page-pricing">Pricing</Link></li>
