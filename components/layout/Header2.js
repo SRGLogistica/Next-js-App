@@ -45,7 +45,7 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
 
                         <Link href="shop-cart" className="ui-btn d-none d-md-block"><i className="lnr-icon-shopping-cart"></i></Link>
 
-                        <Link href="page-contact" className="theme-btn btn-style-one alternate hvr-light d-none d-md-block"><span className="btn-title">Get A Quote</span></Link>
+                        <Link href="page-contact" className="theme-btn btn-style-one alternate hvr-light d-none d-md-block"><span className="btn-title">Solicitar Cotação</span></Link>
 
                         <div className="mobile-nav-toggler" onClick={handleMobileMenu}><span className="icon lnr-icon-bars"></span></div>
                         </div>

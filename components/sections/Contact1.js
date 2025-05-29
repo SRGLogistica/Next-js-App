@@ -68,7 +68,7 @@ const Contact1 = () => {
                           </div>
 
                           <div className="form-group col-lg-6 col-md-6">
-                            <label>Phone No:</label>
+                            <label>Telefone:</label>
                             <input type="tel" name="phone" required/>
                           </div>
 

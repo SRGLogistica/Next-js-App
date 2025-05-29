@@ -42,7 +42,7 @@ const About2T2 = () => {
                   <figure className="image-2 overlay-anim"><img src="images/resource/about4-2.jpg" alt="Image"/></figure>
                   <div className="exp-box">
                     <span className="count">5</span>
-                    <div className="text">Years of <br />Experience</div>
+                    <div className="text">Anos de <br />Experiencia</div>
                   </div>
                 </div>
               </div>
