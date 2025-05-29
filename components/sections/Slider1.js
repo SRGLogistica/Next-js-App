@@ -27,7 +27,7 @@ const Slider1 = () => {
               <div className="row">
                   <div className="content-column col-lg-7 col-md-12 col-sm-12 pt-100">
                     <span className="sub-title animate-1">Envio rápido e confiável</span>
-                    <h1 className="animate-2">Seu Marketing Digital <br className="d-none d-lg-block"/> Começa <br className="d-none d-lg-block"/> Aqui!</h1>
+                    <h1 className="animate-2">A Sua Importação <br className="d-none d-lg-block"/> Começa <br className="d-none d-lg-block"/> Aqui!</h1>
                     <div className="btn-box mt-50">
                       <div className="btn-outer">
                         <Link href="page-contact" className="theme-btn btn-style-one animate-3"><span className="btn-title">Comece Aqui</span></Link>
@@ -55,7 +55,7 @@ const Slider1 = () => {
               <div className="row">
                   <div className="content-column col-lg-7 col-md-12 col-sm-12 pt-100">
                     <span className="sub-title animate-1">Envio rápido e confiável</span>
-                    <h1 className="animate-2">Soluções de <br className="d-none d-lg-block"/> Marketing Digital <br className="d-none d-lg-block"/> com Custo-Benefício</h1>
+                    <h1 className="animate-2">Soluções de <br className="d-none d-lg-block"/> logística com <br className="d-none d-lg-block"/> Custo-Benefício</h1>
                     <div className="btn-box mt-50">
                       <div className="btn-outer">
                         <Link href="page-contact" className="theme-btn btn-style-one animate-3"><span className="btn-title">Comece Aqui</span></Link>
