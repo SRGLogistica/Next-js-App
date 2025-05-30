@@ -62,7 +62,7 @@ const Testimonial1 = () => {
         <div className="inner-column">
           <div className="icon-globe"></div>
           <a href="0123456789" className="phone">+258 84 796 5281</a>
-          <div className="text">Somos otimistas que amam trabalhar juntos</div>
+          <div className="text">Somos otimistas e amamos trabalhar juntos</div>
           <Link href="page-contact" className="theme-btn btn-style-one hover-light"><span className="btn-title">Contact Us</span></Link>
         </div>
       </div>
