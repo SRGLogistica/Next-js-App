@@ -15,7 +15,7 @@ const Services2 = () => {
                     <figure className="image"><img src="images/resource/service2-1.png" alt="Image"/></figure>
                     <div className="content">
                       <h4 className="title"><Link href="page-service-details">Via Aérea</Link></h4>
-                      <div className="text">Lorem ipsum</div>
+                      <div className="text">Entrega até 7 dias </div>
                     </div>
                   </div>
                 </div>
@@ -24,7 +24,7 @@ const Services2 = () => {
                     <figure className="image"><img src="images/resource/service2-2.png" alt="Image"/></figure>
                     <div className="content">
                       <h4 className="title"><Link href="page-service-details">Via Marítima</Link></h4>
-                      <div className="text">Lorem ipsum</div>
+                      <div className="text">Entrega até 30 dias </div>
                     </div>
                   </div>
                 </div>
@@ -33,7 +33,7 @@ const Services2 = () => {
                     <figure className="image"><img src="images/resource/service2-3.png" alt="Image"/></figure>
                     <div className="content">
                       <h4 className="title"><Link href="page-service-details">Via Terrestre</Link></h4>
-                      <div className="text">Lorem ipsum</div>
+                      <div className="text">Entrega imediata</div>
                     </div>
                   </div>
                 </div>
