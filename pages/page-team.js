@@ -6,7 +6,7 @@ export default function PageTeamGrid() {
   return (
     <>
     <Layout headerStyle={1} footerStyle={1}>
-    <PageTitle pageName="Team Grid" />
+    <PageTitle pageName="Equipe SRG" />
 
     <TeamGrid />
     </Layout>

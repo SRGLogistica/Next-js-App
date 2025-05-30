@@ -20,26 +20,25 @@ export default function Menu() {
                                 <li><Link href="/page-team-details">Detalhes da Equipe</Link></li>
                             </ul>
                         </li>
-                        <li><Link href="/page-pricing">Pricing</Link></li>
-                        <li><Link href="/page-testimonial">Testimonial</Link></li>
+                        
                         <li><Link href="/page-faq">FAQ</Link></li>
-                        <li className="dropdown"><Link href="/page-product">Shop</Link>
+                        <li className=""><Link href=""></Link>
                             <ul>
-                                <li><Link href="/page-product">Shop Grid</Link></li>
-                                <li><Link href="/shop-product-details">Shop Details</Link></li>
-                                <li><Link href="/shop-products-sidebar">Shop Sidebar</Link></li>
-                                <li><Link href="/shop-cart">Shop Cart</Link></li>
-                                <li><Link href="/shop-checkout">Shop Checkout</Link></li>
+                                <li><Link href=""></Link></li>
+                                <li><Link href=""></Link></li>
+                                <li><Link href=""></Link></li>
+                                <li><Link href=""></Link></li>
+                                <li><Link href=""></Link></li>
                             </ul>
                         </li>
                         <li><Link href="/page-error">404</Link></li>
                           </ul>
                 </li>
                 
-                <li className="dropdown"><Link href="/page-services">Services</Link>
+                <li className="dropdown"><Link href="/page-services">Serviços</Link>
                     <ul>
-                        <li><Link href="/page-services">Services Grid</Link></li>
-                        <li><Link href="/page-service-details">Service Details</Link></li>
+                        <li><Link href="/page-services">Grade de Serviços</Link></li>
+                        <li><Link href="/page-service-details">Detalhes do serviço</Link></li>
                     </ul>
                 </li>
                 

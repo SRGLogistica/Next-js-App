@@ -5,7 +5,7 @@ export default function Pagecontact() {
   return (
     <>
     <Layout headerStyle={1} footerStyle={1}>
-    <PageTitle pageName="Contact Us" />
+    <PageTitle pageName=" Contacte-nos " />
     <Contact />
     </Layout>
     </>

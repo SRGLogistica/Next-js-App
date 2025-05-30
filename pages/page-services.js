@@ -6,7 +6,7 @@ export default function PageServiceGrid() {
   return (
     <>
     <Layout headerStyle={1} footerStyle={1}>
-    <PageTitle pageName="Services" />
+    <PageTitle pageName="serviços" />
 
     <ServiceGrid />
     </Layout>

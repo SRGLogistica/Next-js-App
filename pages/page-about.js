@@ -11,7 +11,7 @@ export default function PageAbout() {
   return (
     <>
     <Layout headerStyle={1} footerStyle={1}>
-    <PageTitle pageName="About Us" />
+    <PageTitle pageName="Sobre nós" />
 
     <About2 />
     <Services2 />
