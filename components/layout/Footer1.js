@@ -33,7 +33,7 @@ export default function Footer1() {
 					<div className="footer-column col-lg-3 col-md-6 col-sm-12">
 						<div className="footer-widget about-widget">
 						<div className="logo"><Link href="#"><img src="images/logo.png" alt="Logo"/></Link></div>
-						<div className="text">Trabalhamos com paixão por assumir desafios e criar novos no setor de publicidade.</div>
+						<div className="text">Conectando Você ao Melhor em Tecnologia de Qualidade!</div>
 						<Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Sobre nós</span></Link>
 						</div>
 					</div>
