@@ -88,8 +88,7 @@ export default function Footer1() {
 				<div className="footer-bottom">
 				<div className="auto-container">
 					<div className="inner-container">
-					<div className="copyright-text">Copyright © 2025 SRG. Todos os Direitos R
-						17h00eservados</div>
+					<div className="copyright-text">Copyright © 2025 SRG. Todos os Direitos Reservados</div>
 					<ul className="social-icon-one light">
 						<li><Link href="#"><i className="fab fa-facebook"></i></Link></li>
 						<li><Link href="#"><i className="fab fa-twitter"></i></Link></li>

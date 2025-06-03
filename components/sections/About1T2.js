@@ -11,7 +11,7 @@ const About1T2 = () => {
                     <div className="sec-title">
                       <span className="sub-title">Bem-vindo Aqui</span>
                       <h2 className="scrub-each-word text-split">Nós fornecemos uma gama completa <br />de transporte</h2>
-                      <div className="text">Existem muitas variações de passagens do Lorem Ipsum disponíveis, a maioria sofreu alguma alteração, por palavras aleatórias ou que não parecem nem um pouco críveis.</div>
+                      <div className="text">Oferecemos uma gama completa de serviços de transporte, pensados para atender às necessidades específicas de cada cliente. Trabalhamos com comprometimento, pontualidade e responsabilidade, garantindo que sua carga chegue ao destino com total segurança.</div>
                     </div>
                     <div className="icon-box">
                       <i className="icon flaticon-delivery-courier"></i>

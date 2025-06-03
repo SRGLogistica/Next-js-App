@@ -5,13 +5,14 @@ export default function Menu() {
     return (
         <>
             <ul className="navigation">
-                <li className="current dropdown"><Link href="/">Início</Link>
+                {/*removi o dropdown da pagina inicio 01 e 02 */}
+                <li className=""><Link href="/">Início</Link>
                     <ul>
                         <li><Link href="/">Início 01</Link></li>
                         <li><Link href="/index-2">Início 02</Link></li>
                     </ul>
                 </li>
-                 <li className="dropdown"><Link href="/page-about">Paginas</Link>
+                 <li className="dropdown"><Link href="/page-about">páginas</Link>
                     <ul>
                         <li><Link href="/page-about">Sobre</Link></li>
                         <li className="dropdown"><Link href="/page-team">Equipe</Link>
@@ -31,7 +32,7 @@ export default function Menu() {
                                 <li><Link href=""></Link></li>
                             </ul>
                         </li>
-                        <li><Link href="/page-error">404</Link></li>
+                      
                           </ul>
                 </li>
                 

@@ -116,7 +116,7 @@
 
   .card:hover span {
     transform: translateX(4px);
-  }
+   
 }
 
 @media (prefers-reduced-motion) {

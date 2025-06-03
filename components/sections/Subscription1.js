@@ -7,7 +7,7 @@ const Subscription1 = () => {
                 <div className="icon-arrow-2"></div>
                 <div className="icon-block"></div>
                 <div className="title-box">
-                  <h3 className="title">Acompanhe seu  <br />Pedido</h3>
+                  <h3 className="title">Rastreie seu  <br />Pedido</h3>
                 </div>
                 <div className="subscribe-form">
                   <form action="#">

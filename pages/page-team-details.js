@@ -6,7 +6,7 @@ export default function PageTeamDetails() {
   return (
     <>
     <Layout headerStyle={1} footerStyle={1}>
-    <PageTitle pageName="Team Details" />
+    <PageTitle pageName="Detalhes da equipe" />
 
     <TeamDetails />
     </Layout>

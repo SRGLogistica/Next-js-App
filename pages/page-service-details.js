@@ -6,7 +6,7 @@ export default function PageServiceDetails() {
   return (
     <>
     <Layout headerStyle={1} footerStyle={1}>
-    <PageTitle pageName="Services Details" />
+    <PageTitle pageName="Detalhes dos serviços" />
 
     <ServiceDetails />
     </Layout>

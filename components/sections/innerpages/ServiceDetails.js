@@ -32,25 +32,25 @@ const ServiceDetails = () => {
 
 							<div className="sidebar-service-list">
 								<ul>
-									<li><Link href="page-service-details" className="current"><i className="fas fa-angle-right"></i><span>Air Freight</span></Link></li>
-									<li className="current"><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Sea freight</span></Link></li>
-									<li><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Road service</span></Link></li>
-									<li><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Other solution</span></Link></li>
-									<li><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Train Freight</span></Link></li>
-									<li><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Land Transport</span></Link></li>
+									<li><Link href="page-service-details" className="current"><i className="fas fa-angle-right"></i><span>Via Aérea</span></Link></li>
+									<li className="current"><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Via Marítima</span></Link></li>
+									<li><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Via Terrestre</span></Link></li>
+									<li><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Outra solução</span></Link></li>
+									<li><Link href="page-service-details"><i className="fas fa-angle-right"></i><span>Ferroviario</span></Link></li>
+									<li><Link href="page-service-details"><i className="fas fa-angle-right"></i><span> personalizado</span></Link></li>
 								</ul>
 							</div>
 
 							<div className="service-details-help">
 								<div className="help-shape-1"></div>
 								<div className="help-shape-2"></div>
-								<h2 className="help-title">Contact with <br/> us for any <br/> advice</h2>
+								<h2 className="help-title">Entre em contato<br/> conosco para  <br/> qualquer conselho</h2>
 								<div className="help-icon">
 									<span className=" lnr-icon-phone-handset"></span>
 								</div>
 								<div className="help-contact">
-									<p>Need help? Talk to an expert</p>
-									<Link href="tel:12463330079">+892 ( 123 ) 112 - 9999</Link>
+									<p>Precisa de ajuda? Fale com um especialista</p>
+									<Link href="tel:+21 083 657">+21 083 657</Link>
 								</div>
 							</div>
 
@@ -68,100 +68,101 @@ const ServiceDetails = () => {
         <div className="col-xl-8 col-lg-8">
           <div className="services-details__content">
             <img src="/images/resource/service-details.jpg" alt="" />
-            <h2 className="mt-4">Service Overview</h2>
-            <p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-            <p>When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+            <h2 className="mt-4">Visão Geral do Serviço</h2>
+            <p>Oferecemos soluções logísticas completas, desenvolvidas para atender às demandas de empresas que buscam agilidade, segurança e eficiência em seus processos de transporte e distribuição. Atuamos em todas as etapas da cadeia logística, com presença global e suporte personalizado.</p>
+            <p>Nossa estrutura é pensada para entregar resultados consistentes, com equipes capacitadas, tecnologias de ponta e um compromisso inabalável com a qualidade. Cada operação é planejada com precisão, garantindo a máxima performance em tempo, custo e segurança. Mais do que transportar, conectamos negócios, encurtamos distâncias e abrimos caminhos para o crescimento sustentável. </p>
             <div className="content">
               <div className="text">
-                <h3>Service Center</h3>
-                <p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                <h3>Centro de serviços</h3>
+                <p>Nosso Centro de Serviços é o núcleo operacional onde tecnologia, equipe especializada e excelência em atendimento se unem para garantir o bom funcionamento de cada etapa da cadeia logística. Atuamos com foco total no cliente, oferecendo suporte rápido, soluções personalizadas e monitoramento contínuo das operações.</p>
               </div>
               <div className="feature-list">
                 <div className="row clearfix">
                   <div className="col-lg-6 col-md-6 col-sm-12 column">
                     <div className="single-item">
                       <div className="icon-box"><i className="fas fa-check-circle"></i></div>
-                      <h6 className="title">Fast home delivery</h6>
+                      <h6 className="title">Entrega rápida em domicílio</h6>
                     </div>
                   </div>
                   <div className="col-lg-6 col-md-6 col-sm-12 column">
                     <div className="single-item">
                       <div className="icon-box"><i className="fas fa-check-circle"></i></div>
-                      <h6 className="title">Secure Payments</h6>
+                      <h6 className="title">Pagamentos Seguros</h6>
                     </div>
                   </div>
                   <div className="col-lg-6 col-md-6 col-sm-12 column">
                     <div className="single-item">
                       <div className="icon-box"><i className="fas fa-check-circle"></i></div>
-                      <h6 className="title">Delivering best products</h6>
+                      <h6 className="title">Entregando os melhores produtos</h6>
                     </div>
                   </div>
                   <div className="col-lg-6 col-md-6 col-sm-12 column">
                     <div className="single-item">
                       <div className="icon-box"><i className="fas fa-check-circle"></i></div>
-                      <h6 className="title">Food Inspections</h6>
+                      <h6 className="title">Inspeções Alimentares</h6>
                     </div>
                   </div>
                   <div className="col-lg-6 col-md-6 col-sm-12 column">
                     <div className="single-item">
                       <div className="icon-box"><i className="fas fa-check-circle"></i></div>
-                      <h6 className="title">Generator Systems</h6>
+                      <h6 className="title">Sistemas Geradores</h6>
                     </div>
                   </div>
                   <div className="col-lg-6 col-md-6 col-sm-12 column">
                     <div className="single-item">
                       <div className="icon-box"><i className="fas fa-check-circle"></i></div>
-                      <h6 className="title">Assessments</h6>
+                      <h6 className="title">Avaliações</h6>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
             <div className="">
-              <h3>Frequently Asked Question</h3>
-              <p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+              <h3>Perguntas frequentes</h3>
+             {/* removi um paragrafo */}
+             < br></br>
               <ul className="accordion-box wow fadeInRight">
                 {/* Block */}
                 <li className="accordion block">
-                  <div className={isActive.key == 1 ? "acc-btn active" : "acc-btn"} onClick={() => handleClick(1)}>Is my technology allowed on tech?
+                  <div className={isActive.key == 1 ? "acc-btn active" : "acc-btn"} onClick={() => handleClick(1)}>Quais tipos de transporte vocês oferecem?
                     <div className="icon fa fa-plus"></div>
                   </div>
                   <div className={isActive.key == 1 ? "acc-content current" : "acc-content"}>
                     <div className="content">
-                      <div className="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</div>
+                      <div className="text">Oferecemos transporte nacional e internacional, incluindo cargas rodoviárias, marítimas e aéreas, com soluções personalizadas para cada necessidade.</div>
                     </div>
                   </div>
                 </li>
                 {/* Block */}
                 <li className="accordion block active-block">
-                  <div className={isActive.key == 2 ? "acc-btn active" : "acc-btn"} onClick={() => handleClick(2)}>How to soft launch your business?
+                  <div className={isActive.key == 2 ? "acc-btn active" : "acc-btn"} onClick={() => handleClick(2)}>Vocês cuidam da documentação aduaneira?
                     <div className="icon fa fa-plus"></div>
                   </div>
                   <div className={isActive.key == 2 ? "acc-content current" : "acc-content"}>
                     <div className="content">
-                      <div className="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</div>
+                      <div className="text">Sim. Nossa equipe especializada cuida de todo o processo de desembaraço aduaneiro, garantindo conformidade e agilidade nas operações internacionais.</div>
                     </div>
                   </div>
                 </li>
                 {/* Block */}
                 <li className="accordion block">
-                  <div className={isActive.key == 3 ? "acc-btn active" : "acc-btn"} onClick={() => handleClick(3)}>How to turn visitors into contributors
+                  <div className={isActive.key == 3 ? "acc-btn active" : "acc-btn"} onClick={() => handleClick(3)}>Trabalham com logística integrada?
                     <div className="icon fa fa-plus"></div>
                   </div>
                   <div className={isActive.key == 3 ? "acc-content current" : "acc-content"}>
                     <div className="content">
-                      <div className="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</div>
+                      <div className="text">Sim, oferecemos soluções completas de logística integrada, incluindo armazenagem, controle de estoque, distribuição e transporte.</div>
                     </div>
                   </div>
                 </li>
                 {/* Block */}
                 <li className="accordion block">
-                  <div className={isActive.key == 4 ? "acc-btn active" : "acc-btn"} onClick={() => handleClick(4)}>How can i find my solutions?
+                  <div className={isActive.key == 4 ? "acc-btn active" : "acc-btn"} onClick={() => handleClick(4)}>Como solicito um orçamento?
                     <div className="icon fa fa-plus"></div>
                   </div>
                   <div className={isActive.key == 4 ? "acc-content current" : "acc-content"}>
                     <div className="content">
-                      <div className="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</div>
+                      <div className="text">Você pode solicitar um orçamento diretamente pelo nosso site, na aba Solicitar Cotação, ou entrar em contato com nosso time comercial por telefone ou e-mail.</div>
                     </div>
                   </div>
                 </li>

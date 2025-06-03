@@ -17,8 +17,13 @@ const Video1 = () => {
 				</div>
 				</div>
 			</section>
-            <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="L61p2uyiMSo" onClose={() => setOpen(false)} />
+      <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="L61p2uyiMSo" onClose={() => setOpen(false)} 
+				
+				/>        
+
         </>
+		
     );
 };
 export default Video1
+ 

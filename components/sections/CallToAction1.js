@@ -16,7 +16,7 @@ const CallToAction1 = () => {
               </div>
 
               <div className="button-box">
-                <Link href="page-contact" className="theme-btn btn-style-one bg-dark hover-light"><span className="btn-title">Discover More</span></Link>
+                <Link href="page-contact" className="theme-btn btn-style-one bg-dark hover-light"><span className="btn-title">Descubra mais</span></Link>
               </div>
             </div>
           </div>

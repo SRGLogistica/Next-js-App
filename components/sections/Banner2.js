@@ -38,7 +38,7 @@ const Banner2 = () => {
                         <div className="auto-container">
                             <div className="content-box">
                                 <h1 className="title">Somos provedores  <br />globais de logística</h1>
-                                <div className="text">Sistema é um termo usado para se referir a uma coleção organizada de símbolos e processos  <br />que podem ser usados ​​para operar em tais símbolos..</div>
+                                <div className="text">Sistema é um termo usado para se referir a uma coleção organizada de símbolos e processos  <br />que podem ser usados ​​para operar em tais símbolos.</div>
                                 <div className="btn-box">
                                 <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Descubra mais</span></Link>
                                 </div>

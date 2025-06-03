@@ -10,8 +10,8 @@ const WhyChooseUs2 = () => {
                   <div className="inner-column">
                     <div className="sec-title light">
                       <span className="sub-title">Por que nos escolher</span>
-                      <h2 className="scrub-each-word text-split">Criamos oportunidades<br />para atingir potenciais</h2>
-                      <div className="text">Alteration in some form, lipsum is simply free text by injected humou or randomised words even believable.</div>
+                      <h2 className="scrub-each-word text-split">Criamos oportunidades<br />que conectam negócios ao futuro.</h2>
+                      <div className="text">Desenvolvemos soluções logísticas inteligentes para impulsionar o crescimento dos nossos clientes. Com expertise global, tecnologia de ponta e compromisso com resultados, transformamos desafios em novas possibilidades.</div>
                     </div>
                     <div className="title-box">
                       <div className="image"><img src="images/resource/choose2-2.jpg" alt="Image"/></div>
