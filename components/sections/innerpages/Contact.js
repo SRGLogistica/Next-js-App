@@ -1,3 +1,4 @@
+
 import Link from 'next/link';
 
 const Contact = () => {
@@ -9,42 +10,44 @@ const Contact = () => {
       <div className="row">
         <div className="col-xl-7 col-lg-6">
           <div className="sec-title">
-            <span className="sub-title">Send us email</span>
-            <h2>Feel free to write</h2>
+            <span className="sub-title">Envie-nos um e-mail</span>
+            <h2>Sinta-se à vontade para escrever
+
+            </h2>
           </div>
           {/* Contact Form */}
           <form id="contact_form" name="contact_form" className="" action="#" method="post">
             <div className="row">
               <div className="col-sm-6">
                 <div className="mb-3">
-                  <input name="form_name" className="form-control" type="text" placeholder="Enter Name"/>
+                  <input name="form_name" className="form-control" type="text" placeholder="Digite o nome"/>
                 </div>
               </div>
               <div className="col-sm-6">
                 <div className="mb-3">
-                  <input name="form_email" className="form-control required email" type="email" placeholder="Enter Email"/>
+                  <input name="form_email" className="form-control required email" type="email" placeholder="Digite o Email"/>
                 </div>
               </div>
             </div>
             <div className="row">
               <div className="col-sm-6">
                 <div className="mb-3">
-                  <input name="form_subject" className="form-control required" type="text" placeholder="Enter Subject"/>
+                  <input name="form_subject" className="form-control required" type="text" placeholder="Digite o assunto"/>
                 </div>
               </div>
               <div className="col-sm-6">
                 <div className="mb-3">
-                  <input name="form_phone" className="form-control" type="text" placeholder="Enter Phone"/>
+                  <input name="form_phone" className="form-control" type="text" placeholder="Digite o telefone"/>
                 </div>
               </div>
             </div>
             <div className="mb-3">
-              <textarea name="form_message" className="form-control required" rows="7" placeholder="Enter Message"></textarea>
+              <textarea name="form_message" className="form-control required" rows="7" placeholder="Digite a mensagem"></textarea>
             </div>
             <div className="mb-3">
               <input name="form_botcheck" className="form-control" type="hidden" value="" />
-              <button type="submit" className="theme-btn btn-style-one me-2" data-loading-text="Please wait..."><span className="btn-title">Send message</span></button>
-              <button type="reset" className="theme-btn btn-style-one"><span className="btn-title">Reset</span></button>
+              <button type="submit" className="theme-btn btn-style-one me-2" data-loading-text="Please wait..."><span className="btn-title">Enviar mensagem</span></button>
+              <button type="reset" className="theme-btn btn-style-one"><span className="btn-title">Reiniciar</span></button>
             </div>
           </form>
           {/* Contact Form Validation */}
@@ -52,30 +55,30 @@ const Contact = () => {
         <div className="col-xl-5 col-lg-6">
           <div className="contact-details__right">
             <div className="sec-title mb-30">
-              <span className="sub-title">Need any help?</span>
-              <h2>Get in touch with us</h2>
-              <div className="text">Lorem ipsum is simply free text available dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply free labore dolore magna.</div>
+              <span className="sub-title">Precisa de ajuda?</span>
+              <h2>Entre em contato conosco</h2>
+              <div className="text">Nossa equipe está pronta para tirar suas dúvidas e oferecer o suporte que você precisa. Fale conosco a qualquer momento!</div>
             </div>
             <ul className="list-unstyled contact-details__info">
               <li>
                 <div className="icon"><span className="lnr-icon-phone-plus"></span></div>
                 <div className="text">
-                  <h6>Have any question?</h6>
-                  <Link href="tel:980089850"><span>Free</span> +92 (020)-9850</Link>
+                  <h6>Tem alguma dúvida?</h6>
+                  <Link href="+21 083 657"><span></span>+21 083 657</Link>
                 </div>
               </li>
               <li>
                 <div className="icon"><span className="lnr-icon-envelope1"></span></div>
                 <div className="text">
-                  <h6>Write email</h6>
-                  <Link href="mailto:needhelp@company.com">needhelp@company.com</Link>
+               <h6>Escrever e-mail</h6>
+                  <Link href="mailto:needhelp@company.com">geral@srg.co.mz</Link>
                 </div>
               </li>
               <li>
                 <div className="icon"><span className="lnr-icon-location"></span></div>
                 <div className="text">
-                  <h6>Visit anytime</h6>
-                  <span>66 broklyn golden street. New York</span>
+                  <h6>Visite-nos</h6>
+                  <span>Palm Square-Zimpeto, Maputo </span>
                 </div>
               </li>
             </ul>
