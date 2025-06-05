@@ -3,6 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/page-team": "pages/page-team.js",
-  "/page-team-details": "pages/page-team-details.js",
-  "/page-about": "pages/page-about.js"
+  "/": "pages/index.js"
 }
