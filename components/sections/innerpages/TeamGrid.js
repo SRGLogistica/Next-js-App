@@ -13,8 +13,8 @@ const TeamGrid = () => {
           <div className="inner-box">
             <figure className="image"><Link href="page-team-details"><img src="images/resource/team1-1.jpg" alt="image"/></Link></figure>
             <div className="info-box">
-              <span className="designation">Consultant</span>
-              <h5 className="name"><Link href="page-team-details">Mike hardson</Link></h5>
+              <span className="designation">Consultor</span>
+              <h5 className="name"><Link href="page-team-details">Sérgio Machel</Link></h5>
               <span className="share-icon fa fa-share-alt"></span>
               <div className="social-links">
                 <Link href="#"><i className="fab fa-facebook"></i></Link>
@@ -29,8 +29,8 @@ const TeamGrid = () => {
           <div className="inner-box">
             <figure className="image"><Link href="page-team-details"><img src="images/resource/team1-2.jpg" alt="image"/></Link></figure>
             <div className="info-box">
-              <span className="designation">Consultant</span>
-              <h5 className="name"><Link href="page-team-details">Aleesha brown</Link></h5>
+              <span className="designation">Eng.Software</span>
+              <h5 className="name"><Link href="page-team-details">Vasta Libombo</Link></h5>
               <span className="share-icon fa fa-share-alt"></span>
               <div className="social-links">
                 <Link href="#"><i className="fab fa-facebook"></i></Link>
@@ -45,8 +45,8 @@ const TeamGrid = () => {
           <div className="inner-box">
             <figure className="image"><Link href="page-team-details"><img src="images/resource/team1-3.jpg" alt="image"/></Link></figure>
             <div className="info-box">
-              <span className="designation">Consultant</span>
-              <h5 className="name"><Link href="page-team-details">David cooper</Link></h5>
+              <span className="designation">Designer Grafico</span>
+              <h5 className="name"><Link href="page-team-details">Mahmudo Ismael</Link></h5>
               <span className="share-icon fa fa-share-alt"></span>
               <div className="social-links">
                 <Link href="#"><i className="fab fa-facebook"></i></Link>
@@ -61,8 +61,8 @@ const TeamGrid = () => {
           <div className="inner-box">
             <figure className="image"><Link href="page-team-details"><img src="images/resource/team1-4.jpg" alt="image"/></Link></figure>
             <div className="info-box">
-              <span className="designation">Consultant</span>
-              <h5 className="name"><Link href="page-team-details">Sarah Albert</Link></h5>
+              <span className="designation">Gestor</span>
+              <h5 className="name"><Link href="page-team-details">Felisberto Fanequiço</Link></h5>
               <span className="share-icon fa fa-share-alt"></span>
               <div className="social-links">
                 <Link href="#"><i className="fab fa-facebook"></i></Link>

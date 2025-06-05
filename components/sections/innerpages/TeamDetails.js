@@ -20,12 +20,12 @@ const TeamGrid = () => {
             <div className="col-xl-6 col-lg-6">
               <div className="team-details__top-right">
                 <div className="team-details__top-content">
-                  <h3 className="team-details__top-name">Martin Hardson</h3>
-                  <p className="team-details__top-title">Managing Director & CEO</p>
+                  <h3 className="team-details__top-name">Sérgio Machel</h3>
+                  <p className="team-details__top-title">CEO</p>
                   <div className="team-details__social"><Link href="#"><i className="fab fa-facebook"></i></Link> <Link href="#"><i className="fab fa-pinterest-p"></i></Link> <Link href="#"><i className="fab fa-instagram"></i></Link> </div>
-                  <p className="team-details__top-text-1">I help my clients stand out and <br/> they help me grow.</p>
-                  <p className="team-details__top-text-3">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae </p>
-                  <p className="team-details__top-text-2">When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto</p>
+                  <p className="team-details__top-text-1">Eu ajudo meus clientes a se destacarem e <br/> eles me ajudam a crescer.</p>
+                  <p className="team-details__top-text-3">Meu compromisso é transformar a logística em uma vantagem competitiva para nossos clientes, reduzindo custos, prazos e impactos ambientais, sem abrir mão da qualidade e da confiança. </p>
+                  <p className="team-details__top-text-2">Com ampla experiência em gestão logística, lidero com foco em eficiência, inovação e uso estratégico da tecnologia. Utilizamos dados em tempo real, automação e inteligência logística para garantir operações ágeis, seguras e sustentáveis — conectando empresas, pessoas e mercados com excelência.</p>
                 </div>
               </div>
             </div>
@@ -35,8 +35,8 @@ const TeamGrid = () => {
           <div className="row">
             <div className="col-xl-6 col-lg-6">
               <div className="team-details__bottom-left">
-                <h4 className="team-details__bottom-left-title">Personal Experience</h4>
-                <p className="team-details__bottom-left-text">When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto dolorem ipsum quia</p>
+                <h4 className="team-details__bottom-left-title">Experiência Pessoal</h4>
+                <p className="team-details__bottom-left-text">Tenho mais de 10 anos de experiência no setor de logística, atuando desde a operação até a gestão estratégica. Ao longo da minha trajetória, implementei soluções que aumentaram a eficiência, reduziram custos e otimizaram processos para diversos clientes. Acredito que a logística vai além de mover produtos.</p>
               </div>
             </div>
             <div className="col-xl-6 col-lg-6">
@@ -51,7 +51,7 @@ const TeamGrid = () => {
                     </div>
                   </div>
                   <div className="team-details__progress-single">
-                    <h4 className="team-details__progress-title">Farming</h4>
+                    <h4 className="team-details__progress-title">I.T</h4>
                     <div className="bar">
                       <div className="bar-inner count-bar" data-percent="76%" style={{width:"76%"}}>
                         <div className="count-text"><CounterUp count={76} time={3} />%</div>
@@ -59,7 +59,7 @@ const TeamGrid = () => {
                     </div>
                   </div>
                   <div className="team-details__progress-single">
-                    <h4 className="team-details__progress-title">Business</h4>
+                    <h4 className="team-details__progress-title">Negócios</h4>
                     <div className="bar marb-0">
                       <div className="bar-inner count-bar" data-percent="60%" style={{width:"60%"}}>
                         <div className="count-text"><CounterUp count={60} time={3} />%</div>
@@ -77,8 +77,8 @@ const TeamGrid = () => {
     <section className="team-contact-form">
     <div className="container pb-100">
       <div className="sec-title text-center mb-50">
-        <span className="sub-title">Contact With Us Now</span>
-        <h2 className="section-title__title">Feel Free to Write</h2>
+        <span className="sub-title">Entre em Contato Conosco Agora</span>
+        <h2 className="section-title__title">Sinta-se à vontade para escrever</h2>
       </div>
       <div className="row justify-content-center">
         <div className="col-lg-8">
@@ -87,34 +87,34 @@ const TeamGrid = () => {
             <div className="row">
               <div className="col-sm-6">
                 <div className="mb-3">
-                  <input name="form_name" className="form-control" type="text" placeholder="Enter Name"/>
+                  <input name="form_name" className="form-control" type="text" placeholder="Digite o nome"/>
                 </div>
               </div>
               <div className="col-sm-6">
                 <div className="mb-3">
-                  <input name="form_email" className="form-control required email" type="email" placeholder="Enter Email"/>
+                  <input name="form_email" className="form-control required email" type="email" placeholder="Digite o Email"/>
                 </div>
               </div>
             </div>
             <div className="row">
               <div className="col-sm-6">
                 <div className="mb-3">
-                  <input name="form_subject" className="form-control required" type="text" placeholder="Enter Subject"/>
+                  <input name="form_subject" className="form-control required" type="text" placeholder="Digite o assunto"/>
                 </div>
               </div>
               <div className="col-sm-6">
                 <div className="mb-3">
-                  <input name="form_phone" className="form-control" type="text" placeholder="Enter Phone"/>
+                  <input name="form_phone" className="form-control" type="text" placeholder="Digite o telefone"/>
                 </div>
               </div>
             </div>
             <div className="mb-3">
-              <textarea name="form_message" className="form-control required" rows="5" placeholder="Enter Message"></textarea>
+              <textarea name="form_message" className="form-control required" rows="5" placeholder="Digite a mensagem"></textarea>
             </div>
             <div className="mb-3 text-center">
               <input name="form_botcheck" className="form-control" type="hidden" value="" />
-              <button type="submit" className="theme-btn btn-style-one me-2" data-loading-text="Please wait..."><span className="btn-title">Send message</span></button>
-              <button type="reset" className="theme-btn btn-style-one"><span className="btn-title">Reset</span></button>
+              <button type="submit" className="theme-btn btn-style-one me-2" data-loading-text="Please wait..."><span className="btn-title">Enviar mensagem</span></button>
+              <button type="reset" className="theme-btn btn-style-one"><span className="btn-title">Reiniciar</span></button>
             </div>
           </form>
         </div>

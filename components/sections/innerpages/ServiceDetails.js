@@ -56,7 +56,7 @@ const ServiceDetails = () => {
 
 							<div className="sidebar-widget service-sidebar-single mt-4">
 								<div className="service-sidebar-single-btn wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1200m">
-									<Link href="#" className="theme-btn btn-style-one d-grid"><span className="btn-title"><span className="fas fa-file-pdf"></span> download pdf file</span></Link>
+									<Link href="#" className="theme-btn btn-style-one d-grid"><span className="btn-title"><span className="fas fa-file-pdf"></span> baixar arquivo pdf</span></Link>
 								</div>
 							</div>
 						</div>
