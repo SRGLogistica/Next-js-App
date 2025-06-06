@@ -17,7 +17,7 @@ const Contact1 = () => {
                     <div className="sec-title">
                       <span className="sub-title">Entre em contato conosco agora</span>
                       <h2 className="scrub-each-word text-split">Assuma o controle total do envio</h2>
-                      <div className="text">Lorem ipsum</div>
+                   
                     </div>
                     <div className="row">
 
@@ -73,7 +73,7 @@ const Contact1 = () => {
                           </div>
 
                           <div className="col-lg-12 col-md-12 col-sm-12 form-group">
-                            <div className="range-slider-one">
+                             <div className="range-slider-one">
                               <label className="mb-30">Dist (Miles):</label>
                               <ReactSlider
                                 className="horizontal-slider form-group mb-4"
