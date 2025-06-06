@@ -1,16 +1,18 @@
 import Link from "next/link"
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay, Navigation, Pagination, EffectFade } from "swiper/modules";
+import { Autoplay, Pagination, EffectFade } from "swiper/modules";
 import 'swiper/css/effect-fade';
+{/*Removi o Navigation para tirar as cetas do slide*/}
 const swiperOptions = {
-  modules: [Autoplay, Pagination, Navigation, EffectFade],
+  modules: [Autoplay, Pagination, EffectFade],
   slidesPerView: 1,
   autoplay: {
     delay: 5000,
     disableOnInteraction: false,
   },
+ 
   loop: true,
-  navigation: true,
+  navigation: false,
   effect:'fade',
   speed: 2000
 };
