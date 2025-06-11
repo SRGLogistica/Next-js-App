@@ -20,7 +20,7 @@ const Progress2 = () => {
                         <div className="skills">
                         <div className="skill-item">
                             <div className="skill-header">
-                            <div className="skill-title">Transport
+                            <div className="skill-title">Transporte
                                 
                             </div>
                             </div>

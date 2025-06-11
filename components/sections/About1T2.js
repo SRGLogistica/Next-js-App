@@ -10,8 +10,8 @@ const About1T2 = () => {
                   <div className="inner-column">
                     <div className="sec-title">
                       <span className="sub-title">Bem-vindo Aqui</span>
-                      <h2 className="scrub-each-word text-split">Nós fornecemos uma gama completa <br />de transporte</h2>
-                      <div className="text">Oferecemos uma gama completa de serviços de transporte, pensados para atender às necessidades específicas de cada cliente. Trabalhamos com comprometimento, pontualidade e responsabilidade, garantindo que sua carga chegue ao destino com total segurança.</div>
+                      <h2 className="scrub-each-word text-split">"Oferecemos soluções integradas <br />em transporte</h2>
+                      <div className="text">Oferecemos soluções completas em transporte, adaptadas às particularidades de cada operação. Cuidamos de cada etapa com rigor e atenção, garantindo que sua carga chegue ao destino final de forma ágil, segura e sem contratempos.</div>
                     </div>
                     <div className="icon-box">
                       <i className="icon flaticon-delivery-courier"></i>

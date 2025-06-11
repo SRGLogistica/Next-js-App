@@ -49,8 +49,8 @@ const Testimonial1 = () => {
 					<div className="testimonial-block">
 						<div className="inner-box">
 							<div className="icon-quote"></div>
-							<div className="text">Isso se deve ao excelente serviço, preços competitivos e suporte ao cliente. É extremamente revigorante receber um toque tão pessoal.</div>
-							<h5 className="name">Custodia Machel <span className="designation">- Co Founder</span></h5>
+							<div className="text">A satisfação do cliente é a validação visual do nosso propósito: cada identidade bem construída, cada layout funcional e cada detalhe alinhado refletem o compromisso com a excelência.</div>
+							<h5 className="name">Mahmudo Ismael<span className="designation">- Graphic Designer</span></h5>
 						</div>
 					</div>
 				</SwiperSlide>
@@ -62,7 +62,7 @@ const Testimonial1 = () => {
         <div className="inner-column">
           <div className="icon-globe"></div>
           <a href="+21 083 657" className="phone">+21 083 657 </a>
-          <div className="text">Somos otimistas e amamos trabalhar em equipe</div>
+          <div className="text">Somos Otimistas e Amamos Trabalhar Em Equipe</div>
           <Link href="page-contact" className="theme-btn btn-style-one hover-light"><span className="btn-title">Contacte-nos</span></Link>
         </div>
       </div>
@@ -76,8 +76,8 @@ const Testimonial1 = () => {
                 <div className="inner-box">
                   <i className="icon flaticon-truck"></i>
                   <div className="content">
-                    <div className="counter-one"><CounterUp count={37} time={3} /></div>
-                    <div className="counter-text">Filiais em todo <br />o mundo</div>
+                    <div className="counter-one"><CounterUp count={437} time={3} /></div>
+                    <div className="counter-text">Filiais Em tTodo <br />o Mundo</div>
                   </div>
                 </div>
               </div>
@@ -86,8 +86,8 @@ const Testimonial1 = () => {
                 <div className="inner-box">
                   <i className="icon flaticon-order"></i>
                   <div className="content">
-                    <div className="counter-one"><CounterUp count={324} time={3} /></div>
-                    <div className="counter-text">Encomendas entregues<br />por entregadores</div>
+                    <div className="counter-one"><CounterUp count={724} time={3} /></div>
+                    <div className="counter-text">Encomendas e Entregues<br />Por Nossa Equipe</div>
                   </div>
                 </div>
               </div>

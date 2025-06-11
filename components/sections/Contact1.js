@@ -25,7 +25,7 @@ const Contact1 = () => {
                         <div className="inner-box">
                           <i className="icon fa fa-check"></i>
                           <div className="content">
-                            <h5 className="title">rastreio  <br />facilitado</h5>
+                            <h5 className="title">Rastreio  <br />facilitado</h5>
                           </div>
                         </div>
                       </div>

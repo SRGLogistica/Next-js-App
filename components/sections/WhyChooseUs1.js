@@ -19,7 +19,7 @@ const WhyChooseUs1 = () => {
                       <i className="icon flaticon-order"></i>
                       <div className="content">
                         <h5 className="title">Segurança e confiabilidade</h5>
-                        <div className="text">Garantimos que o seu pedido esteja seguro.</div>
+                        <div className="text">Cada entrega é tratada com rigor e atenção, para que seu pedido chegue com total segurança.</div>
                       </div>
                     </div>
                   </div>
@@ -29,7 +29,7 @@ const WhyChooseUs1 = () => {
                       <i className="icon flaticon-logistics-1"></i>
                       <div className="content">
                         <h5 className="title">Compras em todo o mundo</h5>
-                        <div className="text">Garantimos que o seu pedido esteja seguro.</div>
+                        <div className="text">Operamos globalmente para que você compre com liberdade e receba com tranquilidade.</div>
                       </div>
                     </div>
                   </div>

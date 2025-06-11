@@ -16,7 +16,7 @@ const Funfact2 = () => {
                         <img src="images/resource/counter3-1.png" alt="Image"/>
                         <div className="counter-one"><CounterUp count={45} time={3} />+</div>
                         </div>
-                        <div className="counter-text">Filiais em todo o mundo</div>
+                        <div className="counter-text">Filiais Em Todo o Mundo</div>
                     </div>
                     </div>
 
@@ -26,7 +26,7 @@ const Funfact2 = () => {
                         <img src="images/resource/counter3-2.png" alt="Image"/>
                         <div className="counter-one"><CounterUp count={36} time={3} />k</div>
                         </div>
-                        <div className="counter-text">Encomenda entregue por entregadores</div>
+                        <div className="counter-text">Encomenda Entregue Por Nossa Equipe</div>
                     </div>
                     </div>
 
