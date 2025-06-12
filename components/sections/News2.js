@@ -80,8 +80,8 @@ const News2 = () => {
 									<li><i className="fa fa-user-circle"></i>by Admin</li>
 									<li><i className="fa fa-comment"></i>2 Comentários</li>
 									</ul>
-									<h5 className="title"><Link href="news-details">Nós lidamos cuidadosamente com bens valiosos</Link></h5>
-									<Link className="read-more" href="news-details">Ler mais <i className="icon fa fa-angle-right"></i></Link>
+									<h5 className="title">Nós lidamos cuidadosamente com bens valiosos</h5>
+									<Link className="read-more" href="">Ler mais <i className="icon fa fa-angle-right"></i></Link>
 								</div>
 								</div>
 							</div>
@@ -91,10 +91,10 @@ const News2 = () => {
 								<div className="inner-box">
 								<div className="image-box">
 									<figure className="image">
-									<Link href="news-details">
+							
 										<img src="images/resource/news1-2.jpg" alt="Image"/>
 										<img src="images/resource/news1-2.jpg" alt="Image"/>
-									</Link>
+									
 									</figure>
 								</div>
 								<div className="content-box">

@@ -22,13 +22,13 @@ const News1 = () => {
                     </figure>
                   </div>
                   <div className="content-box">
-                    <div className="date">28<span>Maio</span></div>
+                    <div className="date">26<span>Abril</span></div>
                     <ul className="post-meta">
-                      <li><i className="fa fa-user-circle"></i>by Admin</li>
+                      <li><i className="fa fa-user-circle"></i></li>
                       <li><i className="fa fa-comment"></i>2 Comentários</li>
                     </ul>
-                    <h5 className="title"><Link href="news-details">Nós lidamos cuidadosamente com bens valiosos</Link></h5>
-                    <Link className="read-more" href="news-details">Ler mais <i className="icon fa fa-angle-right"></i></Link>
+                    <h5 className="title">Comprometemo-nos com a excelência em cada etapa, garantindo segurança, discrição e integridade no manuseio de bens valiosos</h5>
+                    <Link className="read-more" href="">Saiba mais <i className="icon fa fa-angle-right"></i></Link>
                   </div>
                 </div>
               </div>
@@ -37,20 +37,20 @@ const News1 = () => {
                 <div className="inner-box">
                   <div className="image-box">
                     <figure className="image">
-                      <Link href="news-details">
+                   
                         <img src="images/resource/news1-2.jpg" alt="Image"/>
                         <img src="images/resource/news1-2.jpg" alt="Image"/>
-                      </Link>
+            
                     </figure>
                   </div>
                   <div className="content-box">
                     <div className="date">28<span>Maio</span></div>
                     <ul className="post-meta">
-                      <li><i className="fa fa-user-circle"></i>by Admin</li>
+                      <li><i className="fa fa-user-circle"></i></li>
                       <li><i className="fa fa-comment"></i>2 Comentários</li>
                     </ul>
-                    <h5 className="title"><Link href="news-details">Nós lidamos cuidadosamente com bens valiosos</Link></h5>
-                    <Link className="read-more" href="news-details">Ler mais <i className="icon fa fa-angle-right"></i></Link>
+                    <h5 className="title">Tratamos cada bem com o máximo cuidado, respeito e responsabilidade, cientes de seu valor único para cada cliente</h5>
+                    <Link className="read-more" href="">Saiba mais<i className="icon fa fa-angle-right"></i></Link>
                   </div>
                 </div>
               </div>
@@ -66,13 +66,13 @@ const News1 = () => {
                     </figure>
                   </div>
                   <div className="content-box">
-                    <div className="date">28<span>Abril</span></div>
+                    <div className="date">12<span>Junho</span></div>
                     <ul className="post-meta">
-                      <li><i className="fa fa-user-circle"></i>by Admin</li>
+                      <li><i className="fa fa-user-circle"></i></li>
                       <li><i className="fa fa-comment"></i>2 Comentários</li>
                     </ul>
-                    <h5 className="title"><Link href="news-details">Nós lidamos cuidadosamente com bens valiosos</Link></h5>
-                    <Link className="read-more" href="news-details">Ler mais <i className="icon fa fa-angle-right"></i></Link>
+                    <h5 className="title">Cada item que recebemos é tratado com atenção minuciosa e profissionalismo refletindo nosso compromisso</h5>
+                    <Link className="read-more" href="">Saiba mais<i className="icon fa fa-angle-right"></i></Link>
                   </div>
                 </div>
               </div>

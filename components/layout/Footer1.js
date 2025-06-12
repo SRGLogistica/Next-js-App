@@ -90,13 +90,36 @@ export default function Footer1() {
 					<div className="inner-container">
 					<div className="copyright-text">Copyright © 2025 SRG. Todos os Direitos Reservados</div>
 					<ul className="social-icon-one light">
-						<li><Link href="#"><i className="fab fa-facebook"></i></Link></li>
-						<li><Link href="#"><i className="fab fa-twitter"></i></Link></li>
-						<li><Link href="#"><i className="fab fa-pinterest-p"></i></Link></li>
-						<li><Link href="#"><i className="fab fa-instagram"></i></Link></li>
-					</ul>
+  <li>
+    <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61558514338082&locale=pt_BR" target="_blank" rel="noopener noreferrer">
+      <i className="fab fa-facebook"></i>
+    </a>
+  </li>
+ 
+  <li>
+  <a href="https://www.linkedin.com/in/srg-log%C3%ADstica-e-servi%C3%A7os-a71307364/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <i className="fab fa-linkedin-in"></i>
+  </a>
+</li>
+
+  <li>
+    <a href="https://www.instagram.com/srglogistica/" target="_blank" rel="noopener noreferrer">
+      <i className="fab fa-instagram"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://wa.me/258847965281" target="_blank" rel="noopener noreferrer">
+      <i className="fab fa-whatsapp"></i>
+    </a>
+  </li>
+</ul>
+
 					</div>
 				</div>
+
+
+
+
 				</div>
 			</footer>
 

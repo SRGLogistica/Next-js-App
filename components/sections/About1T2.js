@@ -29,7 +29,7 @@ const About1T2 = () => {
                   <div className="inner-column">
                     <figure className="image overlay-anim"><img src="images/resource/about2-1.jpg" alt="Image"/></figure>
                     <div className="title-box">
-                      <h5 className="title">Movendo seus produtos através de fronteiras</h5>
+                      <h5 className="title">Movendo Seus Produtos Através de Fronteiras</h5>
                     </div>
                   </div>
                 </div>

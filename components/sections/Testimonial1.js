@@ -77,7 +77,7 @@ const Testimonial1 = () => {
                   <i className="icon flaticon-truck"></i>
                   <div className="content">
                     <div className="counter-one"><CounterUp count={437} time={3} /></div>
-                    <div className="counter-text">Filiais Em tTodo <br />o Mundo</div>
+                    <div className="counter-text">Filiais Em  <br /> Todo Mundo</div>
                   </div>
                 </div>
               </div>
@@ -87,7 +87,7 @@ const Testimonial1 = () => {
                   <i className="icon flaticon-order"></i>
                   <div className="content">
                     <div className="counter-one"><CounterUp count={724} time={3} /></div>
-                    <div className="counter-text">Encomendas e Entregues<br />Por Nossa Equipe</div>
+                    <div className="counter-text">Encomendas e Entregues Por<br />Nossa Equipe</div>
                   </div>
                 </div>
               </div>
