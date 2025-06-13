@@ -9,16 +9,16 @@ const WhyChooseUs1 = () => {
               <div className="content-column col-lg-6 col-md-12 col-sm-12 wow fadeInLeft">
                 <div className="inner-column">
                   <div className="sec-title">
-                    <span className="sub-title">Por que nos escolher</span>
-                    <h2 className="scrub-each-word text-split">Criamos oportunidades <br />para atingir potenciais</h2>
+                    <span className="sub-title">Por Que Nos Escolher?</span>
+                    <h2 className="scrub-each-word text-split">Criamos Oportunidades <br />Para Atingir Potenciais</h2>
                   </div>
-                  <h4 className="title">Simplifique suas necessidades de frete e logística com <br />uma abordagem pessoal.</h4>
+                  <h4 className="title">Simplifique suas necessidades de frete e logística com uma<br /> abordagem pessoal.</h4>
 
                   <div className="choose-block">
                     <div className="inner-box">
                       <i className="icon flaticon-order"></i>
                       <div className="content">
-                        <h5 className="title">Segurança e confiabilidade</h5>
+                        <h5 className="title">Segurança e Confiabilidade</h5>
                         <div className="text">Cada entrega é tratada com rigor e atenção, para que seu pedido chegue com total segurança.</div>
                       </div>
                     </div>
@@ -28,7 +28,7 @@ const WhyChooseUs1 = () => {
                     <div className="inner-box">
                       <i className="icon flaticon-logistics-1"></i>
                       <div className="content">
-                        <h5 className="title">Compras em todo o mundo</h5>
+                        <h5 className="title">Compras Em Todo o Mundo</h5>
                         <div className="text">Operamos globalmente para que você compre com liberdade e receba com tranquilidade.</div>
                       </div>
                     </div>
@@ -43,7 +43,7 @@ const WhyChooseUs1 = () => {
                     <div className="icon-building"></div>
                     <i className="icon flaticon-logistics-2"></i>
                     <ul className="list-style-two light">
-                      <li><i className="fa fa-plane"></i> Vantagens de importar connosco:</li>
+                      <li><i className="fa fa-plane"></i> Vantagens de Importar Connosco:</li>
                       <li><i className="fa fa-plane"></i> Apoio total no processo</li>
                       <li><i className="fa fa-plane"></i> Preço por CBM fixo e acessível</li>
                       <li><i className="fa fa-plane"></i> Levantamento rápido em Maputo</li>

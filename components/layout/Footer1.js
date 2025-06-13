@@ -19,7 +19,9 @@ export default function Footer1() {
 						<div className="text">Contacto <br /> <Link href="mailto:geral@srg.co.mz">geral@srg.co.mz</Link> <Link href="tel:+258847965281">+258 (84) 796 5281</Link></div>
 						</li>
 						<li>
-						<i className="icon flaticon-24-hours-2"></i><div className="text">Horario <br /> <span>Seg - Sex: 8h30-17h00 <br />Sab -Dom: FECHADO</span></div>
+						<i className="icon flaticon-24-hours-2"></i><div className="text">Horario <br /> <span>Seg - Sex: 8h30-17h00 <br /> <br/>
+						
+						Sab -Dom: FECHADO</span></div>
 						</li>
 					</ul>
 					</div>

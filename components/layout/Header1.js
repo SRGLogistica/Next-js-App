@@ -26,7 +26,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                         <div className="logo-box">
                             <div className="logo">
                                 <Link href="/">
-                                    <img src="/images/logo.png" width="200" height="auto" alt="SRG" title="SRG" />
+                                    <img src="/images/logologistica.png" width="200" height="auto" alt="SRG" title="SRG" />
                                 </Link>
                             </div>
                         </div>
@@ -41,9 +41,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                                 <span className="icon lnr lnr-icon-search"></span>
                             </button>
 
-                            <button className="ui-btn cart-btn">
-                                <span className="icon lnr lnr-icon-shopping-cart"></span>
-                            </button>
+                           
 
                             <div className="btn-box">
                                 <Link href="/page-contact" className="theme-btn btn-style-one orange-bg">
