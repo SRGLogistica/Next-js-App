@@ -63,7 +63,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                         <div className="upper-box">
                             <div className="nav-logo">
                                 <Link href="/">
-                                    <img src="/images/logo.png" height="1000px" alt="Lozics" />
+                                    <img src="/images/logologistica.png" height="1000px" alt="Lozics" />
                                 </Link>
                             </div>
                             <div className="close-btn" onClick={handleMobileMenu}>

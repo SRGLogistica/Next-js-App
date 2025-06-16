@@ -100,7 +100,7 @@ const Contact1 = () => {
                           </div>
 
                           <div className="form-group col-lg-6 col-md-6 col-sm-6">
-                            <label>Carregar</label>
+                            <label>Seleccione</label>
                             <select className="custom-select">
                               <option value="">Selecione</option>
                               <option value="">Via Aéreo</option>
