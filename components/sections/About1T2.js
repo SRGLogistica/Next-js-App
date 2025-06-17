@@ -18,16 +18,16 @@ const About1T2 = () => {
                       <h5 className="title">Nossa equipe pode ajudá-lo a transformar seu negócio por meio dos recursos tecnológicos mais recentes.</h5>
                     </div>
                     <ul className="list-style-three">
-                      <li><i className="fal fa-circle-check"></i> Soluções de transporte urgentes</li>
-                      <li><i className="fal fa-circle-check"></i> Serviços de qualidade preço razoável</li>
-                      <li><i className="fal fa-circle-check"></i> Equipe confiável e experiente</li>
+                      <li><i className="fal fa-circle-check"></i> Soluções de Transporte Urgentes</li>
+                      <li><i className="fal fa-circle-check"></i> Serviços de Qualidade Preço Razoável</li>
+                      <li><i className="fal fa-circle-check"></i> Equipe Confiável e Experiente</li>
                     </ul>
                   </div>
                 </div>
 
                 <div className="image-column col-lg-6 col-md-12 col-sm-12">
                   <div className="inner-column">
-                    <figure className="image overlay-anim"><img src="images/resource/about2-1.jpg" alt="Image"/></figure>
+                    <figure className="image overlay-anim"><img src="images/resource/about2-1.png" alt="Image"/></figure>
                     <div className="title-box">
                       <h5 className="title">Movendo Seus Produtos Através de Fronteiras</h5>
                     </div>

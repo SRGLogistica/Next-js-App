@@ -57,7 +57,7 @@ export default function Footer1() {
 
 					<div className="footer-column col-lg-3 col-md-6 col-sm-12">
 						<div className="footer-widget gallery-widget">
-						<h4 className="widget-title">Projectos</h4>
+						<h4 className="widget-title">Profissionalismo</h4>
 						<div className="widget-content">
 							<div className="insta-gallery">
 							<figure className="image"><Link href="#"><img src="images/resource/gallery-thumb-1.jpg" alt="Image"/></Link></figure>

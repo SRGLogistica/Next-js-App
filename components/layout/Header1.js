@@ -126,7 +126,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                             {/* Logo Sticky */}
                             <div className="logo">
                                 <Link href="/">
-                                    <img src="/images/logo.png" alt="SRG" />
+                                    <img src="/images/logologistica.png" alt="SRG" />
                                 </Link>
                             </div>
                             {/* Menu Sticky */}

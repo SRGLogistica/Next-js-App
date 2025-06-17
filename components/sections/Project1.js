@@ -54,7 +54,7 @@ const Project1 = () => {
 						<SwiperSlide>
 							<div className="project-block">
 								<div className="inner-box overlay-anim-two">
-								<figure className="image"><img src="images/resource/project1-1.jpg" alt="Image"/></figure>
+								<figure className="image"><img src="images/resource/project1.jpg" alt="Image"/></figure>
 								<div className="content">
 									<span className="cat">Transporte</span>
 									<h5 className="title">Obtenha Os Melhores <br />Transportes</h5>
@@ -102,7 +102,7 @@ const Project1 = () => {
 						<SwiperSlide>
 							<div className="project-block">
 								<div className="inner-box overlay-anim-two">
-								<figure className="image"><img src="images/resource/project1-1.jpg" alt="Image"/></figure>
+								<figure className="image"><img src="images/resource/project1-1.png" alt="Image"/></figure>
 								<div className="content">
 									<span className="cat">Entrega</span>
 									<h5 className="title">Entregamos na <br />Sua Residencia</h5>

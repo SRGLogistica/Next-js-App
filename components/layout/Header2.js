@@ -29,7 +29,7 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                 <div className="header-lower">
                 <div className="main-box">
                     <div className="logo-box">
-                    <div className="logo"><Link href="/"><img src="images/logo.png" alt="" title="SRG"/></Link></div>
+                    <div className="logo"><Link href="/"><img src="images/logologistica.png" alt="" title="SRG"/></Link></div>
                     </div>
 
                     <div className="nav-outer">

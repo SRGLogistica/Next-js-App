@@ -11,12 +11,12 @@ const CallToAction1 = () => {
               <div className="title-box">
                 <div className="inner-column">
                   <span className="sub-title">Importe Aqui!</span>
-                  <h3 className="title">Pronto para enviar sua encomenda conosco?</h3>
+                  <h3 className="title">Pronto Para Enviar Sua Encomenda Conosco Agora?</h3>
                 </div>
               </div>
 
               <div className="button-box">
-                <Link href="page-contact" className="theme-btn btn-style-one bg-dark hover-light"><span className="btn-title">Descubra mais</span></Link>
+                <Link href="https://wa.me/258847965281" className="theme-btn btn-style-one bg-dark hover-light"><span className="btn-title">Descubra mais</span></Link>
               </div>
             </div>
           </div>

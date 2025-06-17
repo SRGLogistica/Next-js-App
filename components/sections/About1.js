@@ -34,8 +34,8 @@ const About1 = () => {
                 <div className="image-column col-lg-6 col-md-12 col-sm-12">
                   <div className="inner-column">
                     <div className="icon-shape-2"></div>
-                    <figure className="image overlay-anim"><img src="images/resource/about1-1.jpg" alt="Image"/></figure>
-                    <figure className="image-2 overlay-anim"><img src="images/resource/about1-2.jpg" alt="Image"/></figure>
+                    <figure className="image overlay-anim"><img src="images/resource/about1-1.png" alt="Image"/></figure>
+                    <figure className="image-2 overlay-anim"><img src="images/resource/about1-2.png" alt="Image"/></figure>
                     <div className="exp-box">
                       <div className="icon-map"></div>
                       <h1 className="count">17<sup>+</sup></h1>
