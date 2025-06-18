@@ -17,11 +17,11 @@ const About2 = () => {
                         <span className="sub-title">Conheça-nos</span>
                         <h2 className="scrub-each-word text-split">Transporte de produtos através de fronteiras</h2>
                         </div>
-                        <h5 className="title">Crie oportunidades para atingir o potencial</h5>
-                        <div className="text">Existem muitas variações de passagens do lorem Ipsum disponíveis, a maioria sofreu ipsum, mesmo ligeiramente crível.</div>
+                        <h5 className="title">Criamos oportunidades para alcançar o potencial máximo dos seus envios.</h5>
+                        <div className="text">Com sólida experiência em logística internacional, asseguramos o transporte eficiente, seguro e em total conformidade com as exigências legais de cada país.</div>
                         <div className="icon-box">
                         <i className="icon flaticon-delivery-courier"></i>
-                        <h5 className="title">Oferecemos uma gama completa de transporte logístico em todo o mundo</h5>
+                        <h5 className="title">Oferecemos uma gama completa de transporte logístico em todo o mundo.</h5>
                         </div>
                         <Link href="page-about" className="theme-btn btn-style-one"><span className="btn-title">Descubra mais</span></Link>
                     </div>
@@ -29,13 +29,13 @@ const About2 = () => {
 
                     <div className="image-column col-xl-4 col-lg-6 col-md-12 col-sm-12">
                     <div className="inner-column">
-                        <figure className="image overlay-anim"><img src="images/resource/about3-1.jpg" alt="Image"/></figure>
+                        <figure className="image overlay-anim"><img src="images/resource/about3-1.png" alt="Image"/></figure>
 
                         <div className="exp-box">
                         <div className="icon-building-2"></div>
                         <i className="icon flaticon-logistics-2"></i>
                         <span className="count">5</span>
-                        <div className="text">Anos de experiência  <br />em logistica</div>
+                     <div className="text">Anos de Experiência  <br />em Logistica</div>
                         </div>
                     </div>
                     </div>
@@ -68,7 +68,7 @@ const About2 = () => {
                             <i className="icon flaticon-logistic"></i>
                             <div className="content">
                                 <div className="counter-one"><CounterUp count={900} time={3} /></div>
-                                <div className="counter-text">Entregue no prazo</div>
+                                <div className="counter-text">Entregas no prazo</div>
                             </div>
                             </div>
                         </div>

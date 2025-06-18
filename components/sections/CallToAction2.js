@@ -6,7 +6,7 @@ const CallToAction2 = () => {
             <div className="icon-plane-3"></div>
             <div className="auto-container">
               <div className="outer-box">
-                <div className="bg bg-image" style={{ backgroundImage: 'url(/images/background/6.jpg)' }}></div>
+                <div className="bg bg-image" style={{ backgroundImage: 'url(/images/background/6.png)' }}></div>
                 <div className="icon-shape-3"></div>
                 <div className="content">
                   <h2 className="title scrub-each-word text-split">Procurando o melhor <br />serviço de transporte logístico?</h2>
