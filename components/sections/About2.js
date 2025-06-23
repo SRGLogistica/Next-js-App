@@ -18,7 +18,7 @@ const About2 = () => {
                         <h2 className="scrub-each-word text-split">Transporte de produtos através de fronteiras</h2>
                         </div>
                         <h5 className="title">Criamos oportunidades para alcançar o potencial máximo dos seus envios.</h5>
-                        <div className="text">Com sólida experiência em logística internacional, asseguramos o transporte eficiente, seguro e em total conformidade com as exigências legais de cada país.</div>
+         <div className="text">Com sólida experiência em logística internacional, asseguramos o transporte eficiente, seguro e em total conformidade com as exigências legais de cada país.</div>
                         <div className="icon-box">
                         <i className="icon flaticon-delivery-courier"></i>
                         <h5 className="title">Oferecemos uma gama completa de transporte logístico em todo o mundo.</h5>
